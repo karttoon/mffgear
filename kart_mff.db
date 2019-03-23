@@ -1,0 +1,3097 @@
+{
+    "chars": {
+        "Absorbing Man": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "D", 
+            "tier": 1
+        }, 
+        "Adam Warlock": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [
+                    "AUT"
+                ], 
+                "pve": [], 
+                "pvp": [
+                    "GB", 
+                    "CRD", 
+                    "IP"
+                ]
+            }, 
+            "rank": "A", 
+            "tier": 2
+        }, 
+        "Agent 13": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "C", 
+            "tier": 1
+        }, 
+        "Agent Venom": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [
+                    "CRD", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "HP", 
+                    "IP"
+                ]
+            }, 
+            "rank": "S", 
+            "tier": 1
+        }, 
+        "Amadeus Cho": {
+            "current": {}, 
+            "gear": {
+                "all": [
+                    "ID", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 1
+        }, 
+        "America Chavez": {
+            "current": {}, 
+            "gear": {
+                "all": [
+                    "ID", 
+                    "HP", 
+                    "DP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 1
+        }, 
+        "Ancient One": {
+            "current": {
+                "slot1": {
+                    "RR": 72
+                }, 
+                "slot2": {
+                    "DEF": 20
+                }, 
+                "slot3": {
+                    "IP": 3
+                }
+            }, 
+            "gear": {
+                "all": [
+                    "HP", 
+                    "RR", 
+                    "IP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 2
+        }, 
+        "Angel": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [
+                    "AUT"
+                ], 
+                "pve": [
+                    "CRD", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "HP", 
+                    "IP"
+                ]
+            }, 
+            "rank": "A", 
+            "tier": 2
+        }, 
+        "Angela": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "C", 
+            "tier": 1
+        }, 
+        "Ant-Man": {
+            "current": {
+                "slot1": {
+                    "CRD": 22
+                }, 
+                "slot2": {
+                    "DO": 14
+                }, 
+                "slot3": {
+                    "IP": 2
+                }
+            }, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": [
+                    "DO", 
+                    "CRD", 
+                    "IP"
+                ]
+            }, 
+            "rank": "S", 
+            "tier": 2
+        }, 
+        "Anti-Man": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [
+                    "ENR"
+                ], 
+                "pve": [
+                    "CRD", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": []
+            }, 
+            "rank": "S", 
+            "tier": 1
+        }, 
+        "Apocalypse": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [
+                    "ENR"
+                ], 
+                "pve": [
+                    "CRD", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": []
+            }, 
+            "rank": "A", 
+            "tier": 2
+        }, 
+        "Arachknight": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": [
+                    "GB", 
+                    "HP", 
+                    "IP"
+                ]
+            }, 
+            "rank": "A", 
+            "tier": 2
+        }, 
+        "Baron Mordo": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 1
+        }, 
+        "Beast": {
+            "current": {
+                "slot1": {
+                    "CRR": 22
+                }, 
+                "slot2": {
+                    "HP": 14
+                }, 
+                "slot3": {
+                    "DP": 110
+                }
+            }, 
+            "gear": {
+                "all": [
+                    "CRR", 
+                    "HP", 
+                    "DP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "A", 
+            "tier": 2
+        }, 
+        "Black Bolt": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 2
+        }, 
+        "Black Cat": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "C", 
+            "tier": 1
+        }, 
+        "Black Panther": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [
+                    "ENR", 
+                    "AUT"
+                ], 
+                "pve": [
+                    "CRD", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "HP", 
+                    "IP"
+                ]
+            }, 
+            "rank": "S", 
+            "tier": 2
+        }, 
+        "Black Widow": {
+            "current": {
+                "slot1": {
+                    "DEF": 14
+                }, 
+                "slot2": {
+                    "DP": 210
+                }, 
+                "slot3": {
+                    "LD": 31
+                }
+            }, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [
+                    "LD", 
+                    "DO", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "DO", 
+                    "IP"
+                ]
+            }, 
+            "rank": "A", 
+            "tier": 2
+        }, 
+        "Blade": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "D", 
+            "tier": 1
+        }, 
+        "Blue Marvel": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": [
+                    "GB", 
+                    "HP", 
+                    "IP"
+                ]
+            }, 
+            "rank": "S", 
+            "tier": 2
+        }, 
+        "Bullseye": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "D", 
+            "tier": 2
+        }, 
+        "Cable": {
+            "current": {
+                "slot1": {
+                    "ENR": 0
+                }
+            }, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [
+                    "CRD", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": []
+            }, 
+            "rank": "S", 
+            "tier": 2
+        }, 
+        "Captain America": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [
+                    "ENR", 
+                    "DES"
+                ], 
+                "pve": [
+                    "CRD", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "HP", 
+                    "IP"
+                ]
+            }, 
+            "rank": "S", 
+            "tier": 2
+        }, 
+        "Captain Marvel": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "S", 
+            "tier": 2
+        }, 
+        "Carnage": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [
+                    "CRD", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": []
+            }, 
+            "rank": "A", 
+            "tier": 1
+        }, 
+        "Clea": {
+            "current": {}, 
+            "gear": {
+                "all": [
+                    "DO", 
+                    "HP", 
+                    "IP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 2
+        }, 
+        "Colossus": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": [
+                    "GB", 
+                    "HP", 
+                    "IP"
+                ]
+            }, 
+            "rank": "A", 
+            "tier": 2
+        }, 
+        "Corvus Glaive": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [
+                    "AUT"
+                ], 
+                "pve": [
+                    "CRD", 
+                    "GB", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "CRD", 
+                    "IP"
+                ]
+            }, 
+            "rank": "S", 
+            "tier": 2
+        }, 
+        "Crescent": {
+            "current": {}, 
+            "gear": {
+                "all": [
+                    "HP", 
+                    "HP", 
+                    "IP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "A", 
+            "tier": 1
+        }, 
+        "Crossbones": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "C", 
+            "tier": 1
+        }, 
+        "Crystal": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [
+                    "GB", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "CRD", 
+                    "IP"
+                ]
+            }, 
+            "rank": "A", 
+            "tier": 2
+        }, 
+        "Cull Obsidian": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [
+                    "CRD", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "HP", 
+                    "CRD", 
+                    "IP"
+                ]
+            }, 
+            "rank": "S", 
+            "tier": 2
+        }, 
+        "Cyclops": {
+            "current": {}, 
+            "gear": {
+                "all": [
+                    "GB", 
+                    "HP", 
+                    "IP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "A", 
+            "tier": 2
+        }, 
+        "Daisy Johnson": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "C", 
+            "tier": 1
+        }, 
+        "Daredevil": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "C", 
+            "tier": 2
+        }, 
+        "Deadpool": {
+            "current": {}, 
+            "gear": {
+                "all": [
+                    "GB", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "ctp": [
+                    "ENR", 
+                    "DES"
+                ], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "S", 
+            "tier": 2
+        }, 
+        "Deathlok": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "D", 
+            "tier": 1
+        }, 
+        "Destroyer": {
+            "current": {}, 
+            "gear": {
+                "all": [
+                    "HP", 
+                    "AD", 
+                    "IP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 1
+        }, 
+        "Doctor Doom": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [
+                    "ENR", 
+                    "AUT"
+                ], 
+                "pve": [
+                    "CRD", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "CRD", 
+                    "IP"
+                ]
+            }, 
+            "rank": "S", 
+            "tier": 2
+        }, 
+        "Doctor Octopus": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "C", 
+            "tier": 1
+        }, 
+        "Doctor Strange": {
+            "current": {
+                "slot1": {
+                    "CRR": 22
+                }, 
+                "slot2": {
+                    "DP": 100
+                }, 
+                "slot3": {
+                    "GB": 0
+                }
+            }, 
+            "gear": {
+                "all": [], 
+                "ctp": [
+                    "AUT"
+                ], 
+                "pve": [
+                    "GB", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "CRD", 
+                    "IP"
+                ]
+            }, 
+            "rank": "S", 
+            "tier": 2
+        }, 
+        "Domino": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [
+                    "CRD", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "CRD", 
+                    "DO", 
+                    "IP"
+                ]
+            }, 
+            "rank": "A", 
+            "tier": 2
+        }, 
+        "Dormammu": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [
+                    "AUT"
+                ], 
+                "pve": [
+                    "FD", 
+                    "GB", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "FD", 
+                    "IP"
+                ]
+            }, 
+            "rank": "A", 
+            "tier": 2
+        }, 
+        "Drax": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "D", 
+            "tier": 1
+        }, 
+        "Ebony Maw": {
+            "current": {
+                "slot1": {
+                    "GB": 0
+                }, 
+                "slot2": {
+                    "CRR": 26
+                }, 
+                "slot3": {
+                    "IP": 3
+                }
+            }, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": [
+                    "GB", 
+                    "CRD", 
+                    "IP"
+                ]
+            }, 
+            "rank": "S", 
+            "tier": 2
+        }, 
+        "Elektra": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 1
+        }, 
+        "Elsa Bloodstone": {
+            "current": {}, 
+            "gear": {
+                "all": [
+                    "GB", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 2
+        }, 
+        "Emma Frost": {
+            "current": {
+                "slot1": {
+                    "MD": 22
+                }, 
+                "slot2": {
+                    "MD": 31
+                }, 
+                "slot3": {
+                    "DP": 210
+                }
+            }, 
+            "gear": {
+                "all": [], 
+                "ctp": [
+                    "AUT", 
+                    "ENR"
+                ], 
+                "pve": [
+                    "MD", 
+                    "MD", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "MD", 
+                    "IP"
+                ]
+            }, 
+            "rank": "S", 
+            "tier": 2
+        }, 
+        "Enchantress": {
+            "current": {}, 
+            "gear": {
+                "all": [
+                    "ID", 
+                    "DO", 
+                    "IP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "A", 
+            "tier": 1
+        }, 
+        "Falcon": {
+            "current": {}, 
+            "gear": {
+                "all": [
+                    "GB", 
+                    "CRD", 
+                    "IP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 2
+        }, 
+        "Fandral": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "D", 
+            "tier": 1
+        }, 
+        "Fantomex": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [
+                    "CRD", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "CRD", 
+                    "HP", 
+                    "IP"
+                ]
+            }, 
+            "rank": "A", 
+            "tier": 2
+        }, 
+        "Gambit": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [
+                    "ENR"
+                ], 
+                "pve": [
+                    "CRD", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": []
+            }, 
+            "rank": "S", 
+            "tier": 1
+        }, 
+        "Gamora": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "D", 
+            "tier": 1
+        }, 
+        "Ghost": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [
+                    "ENR"
+                ], 
+                "pve": [
+                    "ID", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": []
+            }, 
+            "rank": "A", 
+            "tier": 1
+        }, 
+        "Ghost Panther": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [
+                    "ENR"
+                ], 
+                "pve": [
+                    "FD", 
+                    "FD", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "FD", 
+                    "IP"
+                ]
+            }, 
+            "rank": "S", 
+            "tier": 1
+        }, 
+        "Ghost Rider": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 2
+        }, 
+        "Giant-Man": {
+            "current": {}, 
+            "gear": {
+                "all": [
+                    "CRD", 
+                    "GB", 
+                    "DP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 2
+        }, 
+        "Goliath": {
+            "current": {}, 
+            "gear": {
+                "all": [
+                    "CRD", 
+                    "HP", 
+                    "IP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 1
+        }, 
+        "Gorgon": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "C", 
+            "tier": 1
+        }, 
+        "Green Goblin": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "C", 
+            "tier": 1
+        }, 
+        "Groot": {
+            "current": {}, 
+            "gear": {
+                "all": [
+                    "HP", 
+                    "CRD", 
+                    "IP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 2
+        }, 
+        "Gwenpool": {
+            "current": {}, 
+            "gear": {
+                "all": [
+                    "GB", 
+                    "HP", 
+                    "IP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 1
+        }, 
+        "Hawkeye": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "D", 
+            "tier": 1
+        }, 
+        "Heimdall": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 1
+        }, 
+        "Hela": {
+            "current": {
+                "slot1": {
+                    "CRD": 27
+                }, 
+                "slot2": {
+                    "DO": 17
+                }, 
+                "slot3": {
+                    "DP": 230
+                }
+            }, 
+            "gear": {
+                "all": [
+                    "DO", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 2
+        }, 
+        "Hellcat": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "C", 
+            "tier": 1
+        }, 
+        "Hellstorm": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "A", 
+            "tier": 2
+        }, 
+        "Hogun": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "D", 
+            "tier": 1
+        }, 
+        "Hulk": {
+            "current": {
+                "slot1": {
+                    "REF": 0
+                }
+            }, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [
+                    "CRD", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "HP", 
+                    "IP"
+                ]
+            }, 
+            "rank": "S", 
+            "tier": 2
+        }, 
+        "Hulkbuster": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [
+                    "GB", 
+                    "HP", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "HP", 
+                    "IP"
+                ]
+            }, 
+            "rank": "A", 
+            "tier": 2
+        }, 
+        "Human Torch": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [
+                    "ENR"
+                ], 
+                "pve": [
+                    "GB", 
+                    "FD", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "FD", 
+                    "IP"
+                ]
+            }, 
+            "rank": "S", 
+            "tier": 1
+        }, 
+        "Hyperion": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [
+                    "CRD", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "CRD", 
+                    "IP"
+                ]
+            }, 
+            "rank": "A", 
+            "tier": 1
+        }, 
+        "Inferno": {
+            "current": {}, 
+            "gear": {
+                "all": [
+                    "GB", 
+                    "FD", 
+                    "DP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "A", 
+            "tier": 1
+        }, 
+        "Invisible Woman": {
+            "current": {
+                "slot1": {
+                    "CRD": 25
+                }, 
+                "slot2": {
+                    "DEF": 12
+                }, 
+                "slot3": {
+                    "IP": 4
+                }
+            }, 
+            "gear": {
+                "all": [], 
+                "ctp": [
+                    "AUT", 
+                    "DES"
+                ], 
+                "pve": [
+                    "CRD", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "CRD", 
+                    "IP"
+                ]
+            }, 
+            "rank": "S", 
+            "tier": 2
+        }, 
+        "Iron Fist": {
+            "current": {
+                "slot1": {
+                    "DEF": 23
+                }, 
+                "slot2": {
+                    "CRR": 23
+                }, 
+                "slot3": {
+                    "DP": 140
+                }
+            }, 
+            "gear": {
+                "all": [
+                    "DO", 
+                    "CRR", 
+                    "DP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "A", 
+            "tier": 2
+        }, 
+        "Iron Hammer": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [
+                    "LD", 
+                    "LD", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "CRD", 
+                    "IP"
+                ]
+            }, 
+            "rank": "A", 
+            "tier": 1
+        }, 
+        "Iron-Man": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [
+                    "ENR"
+                ], 
+                "pve": [
+                    "CRD", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": []
+            }, 
+            "rank": "S", 
+            "tier": 2
+        }, 
+        "Ironheart": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 1
+        }, 
+        "Jane Foster": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "C", 
+            "tier": 1
+        }, 
+        "Jean Grey": {
+            "current": {
+                "slot1": {
+                    "DES": 0
+                }
+            }, 
+            "gear": {
+                "all": [], 
+                "ctp": [
+                    "AUT", 
+                    "ENR"
+                ], 
+                "pve": [
+                    "FD", 
+                    "FD", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "FD", 
+                    "IP"
+                ]
+            }, 
+            "rank": "S", 
+            "tier": 2
+        }, 
+        "Jessica Jones": {
+            "current": {}, 
+            "gear": {
+                "all": [
+                    "HP", 
+                    "AD", 
+                    "IP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "C", 
+            "tier": 1
+        }, 
+        "Juggernaut": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "?", 
+            "tier": 1
+        }, 
+        "Kaecilius": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "C", 
+            "tier": 1
+        }, 
+        "Karnak": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "C", 
+            "tier": 1
+        }, 
+        "Kate Bishop": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 2
+        }, 
+        "Kid Kaiju": {
+            "current": {}, 
+            "gear": {
+                "all": [
+                    "CRD", 
+                    "GB", 
+                    "IP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "A", 
+            "tier": 1
+        }, 
+        "Killmonger": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [
+                    "CRD", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "HP", 
+                    "CRD", 
+                    "IP"
+                ]
+            }, 
+            "rank": "A", 
+            "tier": 1
+        }, 
+        "Kingpin": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "C", 
+            "tier": 2
+        }, 
+        "Korath": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "A", 
+            "tier": 1
+        }, 
+        "Kraven": {
+            "current": {
+                "slot1": {
+                    "DEF": 24
+                }, 
+                "slot2": {
+                    "DO": 13
+                }, 
+                "slot3": {
+                    "DP": 100
+                }
+            }, 
+            "gear": {
+                "all": [
+                    "DO", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 2
+        }, 
+        "Lash": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "C", 
+            "tier": 1
+        }, 
+        "Lincoln": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 1
+        }, 
+        "Lizard": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "C", 
+            "tier": 1
+        }, 
+        "Loki": {
+            "current": {
+                "slot1": {
+                    "TRA": 0
+                }
+            }, 
+            "gear": {
+                "all": [
+                    "HP", 
+                    "CD", 
+                    "IP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "A", 
+            "tier": 2
+        }, 
+        "Luke Cage": {
+            "current": {}, 
+            "gear": {
+                "all": [
+                    "HP", 
+                    "AD", 
+                    "IP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 2
+        }, 
+        "Luna Snow": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [
+                    "ENR"
+                ], 
+                "pve": [
+                    "CD", 
+                    "CD", 
+                    "DP"
+                ], 
+                "pvp": []
+            }, 
+            "rank": "S", 
+            "tier": 1
+        }, 
+        "M.O.D.O.K": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "D", 
+            "tier": 2
+        }, 
+        "Magik": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [
+                    "CRD", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "CRD", 
+                    "IP"
+                ]
+            }, 
+            "rank": "A", 
+            "tier": 1
+        }, 
+        "Magneto": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [
+                    "ENR"
+                ], 
+                "pve": [
+                    "CRD", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "CRD", 
+                    "IP"
+                ]
+            }, 
+            "rank": "S", 
+            "tier": 2
+        }, 
+        "Malekith": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 1
+        }, 
+        "Mantis": {
+            "current": {}, 
+            "gear": {
+                "all": [
+                    "HP", 
+                    "RR", 
+                    "IP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 1
+        }, 
+        "Maximus": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "C", 
+            "tier": 1
+        }, 
+        "Medusa": {
+            "current": {
+                "slot1": {
+                    "CRR": 21
+                }, 
+                "slot2": {
+                    "CRD": 26
+                }, 
+                "slot3": {
+                    "DP": 110
+                }
+            }, 
+            "gear": {
+                "all": [], 
+                "ctp": [
+                    "ENR"
+                ], 
+                "pve": [
+                    "CRD", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": []
+            }, 
+            "rank": "A", 
+            "tier": 2
+        }, 
+        "Miles Morales": {
+            "current": {
+                "slot1": {
+                    "DEF": 16
+                }, 
+                "slot2": {
+                    "LD": 31
+                }, 
+                "slot3": {
+                    "DP": 100
+                }
+            }, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [
+                    "GB", 
+                    "LD", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "DO", 
+                    "IP"
+                ]
+            }, 
+            "rank": "S", 
+            "tier": 1
+        }, 
+        "Minn-Erva": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "S", 
+            "tier": 1
+        }, 
+        "Mister Fantastic": {
+            "current": {
+                "slot1": {
+                    "DEF": 19
+                }, 
+                "slot2": {
+                    "IP": 3
+                }, 
+                "slot3": {
+                    "GB": 0
+                }
+            }, 
+            "gear": {
+                "all": [], 
+                "ctp": [
+                    "ENR", 
+                    "AUT"
+                ], 
+                "pve": [
+                    "CRD", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "HP", 
+                    "IP"
+                ]
+            }, 
+            "rank": "S", 
+            "tier": 2
+        }, 
+        "Misty Knight": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "C", 
+            "tier": 1
+        }, 
+        "Mockingbird": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "D", 
+            "tier": 1
+        }, 
+        "Moon Girl": {
+            "current": {
+                "slot1": {
+                    "GB": 0
+                }, 
+                "slot2": {
+                    "DEF": 12
+                }, 
+                "slot3": {
+                    "DP": 110
+                }
+            }, 
+            "gear": {
+                "all": [
+                    "GB", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "S", 
+            "tier": 2
+        }, 
+        "Moon Knight": {
+            "current": {}, 
+            "gear": {
+                "all": [
+                    "GB", 
+                    "HP", 
+                    "IP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 1
+        }, 
+        "Morgan Le Fay": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [
+                    "CRD", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "CRD", 
+                    "IP"
+                ]
+            }, 
+            "rank": "A", 
+            "tier": 1
+        }, 
+        "Ms. Marvel": {
+            "current": {}, 
+            "gear": {
+                "all": [
+                    "HP", 
+                    "RR", 
+                    "IP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 1
+        }, 
+        "Mysterio": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 1
+        }, 
+        "Nadia Van Dyne": {
+            "current": {}, 
+            "gear": {
+                "all": [
+                    "GB", 
+                    "HP", 
+                    "IP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "A", 
+            "tier": 1
+        }, 
+        "Nebula": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "C", 
+            "tier": 1
+        }, 
+        "Nick Fury": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "S", 
+            "tier": 1
+        }, 
+        "Nightcrawler": {
+            "current": {}, 
+            "gear": {
+                "all": [
+                    "GB", 
+                    "HP", 
+                    "IP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 2
+        }, 
+        "Nova": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [
+                    "ENR", 
+                    "AUT"
+                ], 
+                "pve": [
+                    "CRD", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "CRD", 
+                    "IP"
+                ]
+            }, 
+            "rank": "S", 
+            "tier": 1
+        }, 
+        "Odin": {
+            "current": {}, 
+            "gear": {
+                "all": [
+                    "GB", 
+                    "HP", 
+                    "IP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "A", 
+            "tier": 2
+        }, 
+        "Phil Coulson": {
+            "current": {}, 
+            "gear": {
+                "all": [
+                    "HP", 
+                    "HP", 
+                    "IP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 2
+        }, 
+        "Proxima Midnight": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [
+                    "GB", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "CRD", 
+                    "IP"
+                ]
+            }, 
+            "rank": "S", 
+            "tier": 2
+        }, 
+        "Psylocke": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [
+                    "AUT", 
+                    "ENR"
+                ], 
+                "pve": [
+                    "MD", 
+                    "MD", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "MD", 
+                    "IP"
+                ]
+            }, 
+            "rank": "S", 
+            "tier": 2
+        }, 
+        "Punisher": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [
+                    "CRD", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": []
+            }, 
+            "rank": "A", 
+            "tier": 2
+        }, 
+        "Quasar": {
+            "current": {}, 
+            "gear": {
+                "all": [
+                    "GB", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "A", 
+            "tier": 1
+        }, 
+        "Quicksilver": {
+            "current": {
+                "slot1": {
+                    "ENR": 0
+                }
+            }, 
+            "gear": {
+                "all": [
+                    "GB", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "ctp": [
+                    "ENR", 
+                    "DES"
+                ], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "S", 
+            "tier": 2
+        }, 
+        "Red Hulk": {
+            "current": {}, 
+            "gear": {
+                "all": [
+                    "HP", 
+                    "RR", 
+                    "IP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 2
+        }, 
+        "Red Skull": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "D", 
+            "tier": 1
+        }, 
+        "Rhino": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 1
+        }, 
+        "Robbie Reyes": {
+            "current": {}, 
+            "gear": {
+                "all": [
+                    "FD", 
+                    "FD", 
+                    "DP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "A", 
+            "tier": 1
+        }, 
+        "Rocket Raccoon": {
+            "current": {}, 
+            "gear": {
+                "all": [
+                    "CRD", 
+                    "GB", 
+                    "DP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "A", 
+            "tier": 1
+        }, 
+        "Rogue": {
+            "current": {}, 
+            "gear": {
+                "all": [
+                    "GB", 
+                    "HP", 
+                    "IP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "A", 
+            "tier": 2
+        }, 
+        "Ronan": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "A", 
+            "tier": 2
+        }, 
+        "Sabertooth": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "?", 
+            "tier": 1
+        }, 
+        "Sandman": {
+            "current": {}, 
+            "gear": {
+                "all": [
+                    "CRD", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 2
+        }, 
+        "Satana": {
+            "current": {
+                "slot1": {
+                    "FD": 35
+                }, 
+                "slot2": {
+                    "GB": 0
+                }, 
+                "slot3": {
+                    "DP": 100
+                }
+            }, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [
+                    "GB", 
+                    "FD", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "FD", 
+                    "IP"
+                ]
+            }, 
+            "rank": "A", 
+            "tier": 2
+        }, 
+        "Scarlet Witch": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [
+                    "AUT", 
+                    "ENR"
+                ], 
+                "pve": [
+                    "MD", 
+                    "MD", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "MD", 
+                    "IP"
+                ]
+            }, 
+            "rank": "S", 
+            "tier": 2
+        }, 
+        "Sentinel": {
+            "current": {}, 
+            "gear": {
+                "all": [
+                    "GB", 
+                    "HP", 
+                    "IP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "A", 
+            "tier": 1
+        }, 
+        "Shang-Chi": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "D", 
+            "tier": 1
+        }, 
+        "Sharon Rogers": {
+            "current": {
+                "slot1": {
+                    "CRR": 12
+                }, 
+                "slot2": {
+                    "CRD": 15
+                }, 
+                "slot3": {
+                    "DP": 65
+                }
+            }, 
+            "gear": {
+                "all": [], 
+                "ctp": [
+                    "ENR"
+                ], 
+                "pve": [
+                    "CRD", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": []
+            }, 
+            "rank": "S", 
+            "tier": 2
+        }, 
+        "She-Hulk": {
+            "current": {}, 
+            "gear": {
+                "all": [
+                    "CRD", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "A", 
+            "tier": 2
+        }, 
+        "Shuri": {
+            "current": {
+                "slot1": {
+                    "CRD": 26
+                }, 
+                "slot2": {
+                    "CRR": 21
+                }, 
+                "slot3": {
+                    "DP": 100
+                }
+            }, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [
+                    "CRD", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "HP", 
+                    "IP"
+                ]
+            }, 
+            "rank": "A", 
+            "tier": 2
+        }, 
+        "Sif": {
+            "current": {
+                "slot1": {
+                    "CRD": 22
+                }, 
+                "slot2": {
+                    "DO": 14
+                }, 
+                "slot3": {
+                    "DP": 75
+                }
+            }, 
+            "gear": {
+                "all": [
+                    "DO", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 1
+        }, 
+        "Silk": {
+            "current": {}, 
+            "gear": {
+                "all": [
+                    "DO", 
+                    "CRR", 
+                    "IP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 1
+        }, 
+        "Sin": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "D", 
+            "tier": 1
+        }, 
+        "Singularity": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 1
+        }, 
+        "Sister Grimm": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "C", 
+            "tier": 1
+        }, 
+        "Skurge": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [
+                    "GB", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": []
+            }, 
+            "rank": "A", 
+            "tier": 1
+        }, 
+        "Songbird": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 1
+        }, 
+        "Spider-Gwen": {
+            "current": {}, 
+            "gear": {
+                "all": [
+                    "DO", 
+                    "CRD", 
+                    "IP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 1
+        }, 
+        "Spider-Man": {
+            "current": {
+                "slot1": {
+                    "TRA": 0
+                }
+            }, 
+            "gear": {
+                "all": [], 
+                "ctp": [
+                    "AUT", 
+                    "DES"
+                ], 
+                "pve": [
+                    "CRD", 
+                    "GB", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "DO", 
+                    "IP"
+                ]
+            }, 
+            "rank": "S", 
+            "tier": 2
+        }, 
+        "Spider-Man 2099": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [
+                    "CRD", 
+                    "GB", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "DO", 
+                    "IP"
+                ]
+            }, 
+            "rank": "A", 
+            "tier": 1
+        }, 
+        "Squirrel Girl": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 1
+        }, 
+        "Star-Lord": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [
+                    "CRD", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "CRD", 
+                    "DO", 
+                    "IP"
+                ]
+            }, 
+            "rank": "A", 
+            "tier": 1
+        }, 
+        "Storm": {
+            "current": {}, 
+            "gear": {
+                "all": [
+                    "LD", 
+                    "GB", 
+                    "DP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "A", 
+            "tier": 2
+        }, 
+        "Stryfe": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [
+                    "CRD", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "CRD", 
+                    "IP"
+                ]
+            }, 
+            "rank": "S", 
+            "tier": 2
+        }, 
+        "Supergiant": {
+            "current": {}, 
+            "gear": {
+                "all": [
+                    "MD", 
+                    "DO", 
+                    "DP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "A", 
+            "tier": 1
+        }, 
+        "Thanos": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [
+                    "ENR", 
+                    "AUT"
+                ], 
+                "pve": [
+                    "GB", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "CRD", 
+                    "IP"
+                ]
+            }, 
+            "rank": "S", 
+            "tier": 2
+        }, 
+        "Thing": {
+            "current": {}, 
+            "gear": {
+                "all": [
+                    "HP", 
+                    "GB", 
+                    "IP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "A", 
+            "tier": 1
+        }, 
+        "Thor": {
+            "current": {
+                "slot1": {
+                    "GB": 0
+                }, 
+                "slot2": {
+                    "LD": 31
+                }, 
+                "slot3": {
+                    "IP": 3
+                }
+            }, 
+            "gear": {
+                "all": [], 
+                "ctp": [
+                    "ENR", 
+                    "AUT"
+                ], 
+                "pve": [
+                    "LD", 
+                    "GB", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "LD", 
+                    "IP"
+                ]
+            }, 
+            "rank": "S", 
+            "tier": 2
+        }, 
+        "Titania": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [
+                    "CRD", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "HP", 
+                    "CRD", 
+                    "IP"
+                ]
+            }, 
+            "rank": "A", 
+            "tier": 1
+        }, 
+        "Ulik": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "C", 
+            "tier": 1
+        }, 
+        "Ultron": {
+            "current": {
+                "slot1": {
+                    "TRA": 0
+                }
+            }, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "C", 
+            "tier": 2
+        }, 
+        "Ulysses Klaue": {
+            "current": {
+                "slot1": {
+                    "DEF": 20
+                }, 
+                "slot2": {
+                    "CRR": 21
+                }, 
+                "slot3": {
+                    "DP": 65
+                }
+            }, 
+            "gear": {
+                "all": [
+                    "CRR", 
+                    "HP", 
+                    "DP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 2
+        }, 
+        "Valkyrie": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [
+                    "CRD", 
+                    "GB", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "HP", 
+                    "IP"
+                ]
+            }, 
+            "rank": "A", 
+            "tier": 1
+        }, 
+        "Venom": {
+            "current": {}, 
+            "gear": {
+                "all": [
+                    "GB", 
+                    "HP", 
+                    "IP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "A", 
+            "tier": 2
+        }, 
+        "Victorious": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [
+                    "ENR", 
+                    "AUT"
+                ], 
+                "pve": [
+                    "HP", 
+                    "HP", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "HP", 
+                    "IP"
+                ]
+            }, 
+            "rank": "S", 
+            "tier": 1
+        }, 
+        "Vision": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 2
+        }, 
+        "Volstagg": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "C", 
+            "tier": 1
+        }, 
+        "Vulture": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [
+                    "ID", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "DO", 
+                    "IP"
+                ]
+            }, 
+            "rank": "A", 
+            "tier": 1
+        }, 
+        "War Machine": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [
+                    "CRD", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": []
+            }, 
+            "rank": "A", 
+            "tier": 2
+        }, 
+        "Warpath": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "?", 
+            "tier": 1
+        }, 
+        "Warwolf": {
+            "current": {
+                "slot1": {
+                    "CRR": 20
+                }, 
+                "slot2": {
+                    "CRR": 13
+                }, 
+                "slot3": {
+                    "IP": 2
+                }
+            }, 
+            "gear": {
+                "all": [
+                    "HP", 
+                    "CRD", 
+                    "IP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 1
+        }, 
+        "Wasp": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [
+                    "AUT"
+                ], 
+                "pve": [], 
+                "pvp": [
+                    "GB", 
+                    "HP", 
+                    "IP"
+                ]
+            }, 
+            "rank": "A", 
+            "tier": 2
+        }, 
+        "Weapon Hex": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [
+                    "AUT"
+                ], 
+                "pve": [
+                    "GB", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "CRD", 
+                    "IP"
+                ]
+            }, 
+            "rank": "S", 
+            "tier": 1
+        }, 
+        "Whiplash": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "D", 
+            "tier": 1
+        }, 
+        "White Fox": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [
+                    "CRD", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "HP", 
+                    "IP"
+                ]
+            }, 
+            "rank": "A", 
+            "tier": 2
+        }, 
+        "White Tiger": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 1
+        }, 
+        "Wiccan": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 1
+        }, 
+        "Winter Soldier": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [
+                    "ENR", 
+                    "AUT"
+                ], 
+                "pve": [
+                    "CRD", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "CRD", 
+                    "IP"
+                ]
+            }, 
+            "rank": "S", 
+            "tier": 2
+        }, 
+        "Wolverine": {
+            "current": {
+                "slot1": {
+                    "REF": 0
+                }
+            }, 
+            "gear": {
+                "all": [], 
+                "ctp": [
+                    "AUT", 
+                    "REF"
+                ], 
+                "pve": [
+                    "CRD", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "HP", 
+                    "IP"
+                ]
+            }, 
+            "rank": "S", 
+            "tier": 2
+        }, 
+        "Wong": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "C", 
+            "tier": 1
+        }, 
+        "X-23": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [
+                    "AUT", 
+                    "DES"
+                ], 
+                "pve": [
+                    "CRD", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "HP", 
+                    "IP"
+                ]
+            }, 
+            "rank": "S", 
+            "tier": 2
+        }, 
+        "Yellowjacket": {
+            "current": {}, 
+            "gear": {
+                "all": [
+                    "CRD", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "A", 
+            "tier": 1
+        }, 
+        "Yondu": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "B", 
+            "tier": 2
+        }
+    }, 
+    "defs": {
+        "ctp": {
+            "AUT": "CTP of Authority", 
+            "DES": "CTP of Destruction", 
+            "ENR": "CTP of Energy", 
+            "PAT": "CTP of Patience", 
+            "RAG": "CTF of Rage", 
+            "REF": "CTP of Refinement", 
+            "REG": "CTP of Regeneration", 
+            "TRA": "CTP of Transcendence"
+        }, 
+        "gear": {
+            "AD": "All Defense", 
+            "CD": "Cold Damage", 
+            "CRD": "Critical Damage", 
+            "CRR": "Critical Rate", 
+            "DEF": "Ignore Defense", 
+            "DO": "Dodge", 
+            "DP": "Damage Proc", 
+            "FD": "Fire Damage", 
+            "GB": "Guard Break Immunity", 
+            "HP": "Max HP", 
+            "ID": "Ignore Dodge", 
+            "IP": "Invincible Proc", 
+            "LD": "Lightning Damage", 
+            "MD": "Mind Damage", 
+            "PD": "Poison Damage", 
+            "RR": "Recovery Rate"
+        }
+    }
+}
