@@ -1266,6 +1266,16 @@
             "rank": "C", 
             "tier": 1
         }, 
+        "Juggernaut": {
+            "current": {},
+            "gear": {
+                "all": [],
+                "pve": [],
+                "pvp": []
+            },
+            "rank": "?",
+            "tier": 1
+        },
         "Kaecilius": {
             "current": {}, 
             "gear": {
@@ -2583,6 +2593,16 @@
             "rank": "A", 
             "tier": 1
         }, 
+        "Warpath": {
+            "current": {},
+            "gear": {
+                "all": [],
+                "pve": [],
+                "pvp": []
+            },
+            "rank": "?",
+            "tier": 1
+        },
         "Warwolf": {
             "current": {}, 
             "gear": {
@@ -2798,8 +2818,10 @@
             "DES": "CTP of Destruction",
             "ENR": "CTP of Energy",
             "PAT": "CTP of Patience",
+            "RAG": "CTF of Rage",
             "REF": "CTP of Refinement",
-            "TRA": "CTP of Transcendence"
+            "REG": "CTP of Regeneration",
+            "TRA": "CTP of Transcendence",           
         },
         "gear": {
             "AD": "All Defense",
