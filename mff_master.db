@@ -3,8 +3,8 @@
         "Absorbing Man": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -14,10 +14,10 @@
         "Adam Warlock": {
             "current": {}, 
             "gear": {
+                "all": [], 
                 "ctp": [
                     "AUT"
                 ], 
-                "all": [], 
                 "pve": [], 
                 "pvp": [
                     "GB", 
@@ -31,8 +31,8 @@
         "Agent 13": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -42,8 +42,8 @@
         "Agent Venom": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -61,12 +61,12 @@
         "Amadeus Cho": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "ID", 
                     "CRD", 
                     "DP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -76,12 +76,12 @@
         "America Chavez": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "ID", 
                     "HP", 
                     "DP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -91,12 +91,12 @@
         "Ancient One": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "HP", 
                     "RR", 
                     "IP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -106,10 +106,10 @@
         "Angel": {
             "current": {}, 
             "gear": {
+                "all": [], 
                 "ctp": [
                     "AUT"
                 ], 
-                "all": [], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -127,8 +127,8 @@
         "Angela": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -138,8 +138,8 @@
         "Ant-Man": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": [
                     "DO", 
@@ -153,10 +153,10 @@
         "Anti-Man": {
             "current": {}, 
             "gear": {
+                "all": [], 
                 "ctp": [
                     "ENR"
                 ], 
-                "all": [], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -170,10 +170,10 @@
         "Apocalypse": {
             "current": {}, 
             "gear": {
+                "all": [], 
                 "ctp": [
                     "ENR"
                 ], 
-                "all": [], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -187,8 +187,8 @@
         "Arachknight": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": [
                     "GB", 
@@ -202,8 +202,8 @@
         "Baron Mordo": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -213,12 +213,12 @@
         "Beast": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "CRR", 
                     "HP", 
                     "DP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -228,8 +228,8 @@
         "Black Bolt": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -239,8 +239,8 @@
         "Black Cat": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -250,11 +250,11 @@
         "Black Panther": {
             "current": {}, 
             "gear": {
+                "all": [], 
                 "ctp": [
                     "ENR", 
                     "AUT"
                 ], 
-                "all": [], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -272,8 +272,8 @@
         "Black Widow": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [
                     "LD", 
                     "DO", 
@@ -291,8 +291,8 @@
         "Blade": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -302,8 +302,8 @@
         "Blue Marvel": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": [
                     "GB", 
@@ -317,8 +317,8 @@
         "Bullseye": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -328,8 +328,10 @@
         "Cable": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [
+                    "ENR"
+                ], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -343,11 +345,11 @@
         "Captain America": {
             "current": {}, 
             "gear": {
+                "all": [], 
                 "ctp": [
                     "ENR", 
                     "DES"
                 ], 
-                "all": [], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -365,8 +367,8 @@
         "Captain Marvel": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -376,8 +378,8 @@
         "Carnage": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -391,12 +393,12 @@
         "Clea": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "DO", 
                     "HP", 
                     "IP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -406,8 +408,8 @@
         "Colossus": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": [
                     "GB", 
@@ -421,10 +423,10 @@
         "Corvus Glaive": {
             "current": {}, 
             "gear": {
+                "all": [], 
                 "ctp": [
                     "AUT"
                 ], 
-                "all": [], 
                 "pve": [
                     "CRD", 
                     "GB", 
@@ -442,12 +444,12 @@
         "Crescent": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "HP", 
                     "HP", 
                     "IP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -457,8 +459,8 @@
         "Crossbones": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -468,8 +470,8 @@
         "Crystal": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [
                     "GB", 
                     "CRD", 
@@ -487,8 +489,8 @@
         "Cull Obsidian": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -506,12 +508,12 @@
         "Cyclops": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "GB", 
                     "HP", 
                     "IP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -521,8 +523,8 @@
         "Daisy Johnson": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -532,8 +534,8 @@
         "Daredevil": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -543,14 +545,14 @@
         "Deadpool": {
             "current": {}, 
             "gear": {
-                "ctp": [
-                    "ENR", 
-                    "DES"
-                ], 
                 "all": [
                     "GB", 
                     "CRD", 
                     "DP"
+                ], 
+                "ctp": [
+                    "ENR", 
+                    "DES"
                 ], 
                 "pve": [], 
                 "pvp": []
@@ -561,8 +563,8 @@
         "Deathlok": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -572,12 +574,12 @@
         "Destroyer": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "HP", 
                     "AD", 
                     "IP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -587,11 +589,11 @@
         "Doctor Doom": {
             "current": {}, 
             "gear": {
+                "all": [], 
                 "ctp": [
                     "ENR", 
                     "AUT"
                 ], 
-                "all": [], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -609,8 +611,8 @@
         "Doctor Octopus": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -620,10 +622,10 @@
         "Doctor Strange": {
             "current": {}, 
             "gear": {
+                "all": [], 
                 "ctp": [
                     "AUT"
                 ], 
-                "all": [], 
                 "pve": [
                     "GB", 
                     "CRD", 
@@ -641,8 +643,8 @@
         "Domino": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -660,10 +662,10 @@
         "Dormammu": {
             "current": {}, 
             "gear": {
+                "all": [], 
                 "ctp": [
                     "AUT"
                 ], 
-                "all": [], 
                 "pve": [
                     "FD", 
                     "GB", 
@@ -681,8 +683,8 @@
         "Drax": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -692,8 +694,8 @@
         "Ebony Maw": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": [
                     "GB", 
@@ -707,8 +709,8 @@
         "Elektra": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -718,12 +720,12 @@
         "Elsa Bloodstone": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "GB", 
                     "CRD", 
                     "DP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -733,11 +735,11 @@
         "Emma Frost": {
             "current": {}, 
             "gear": {
+                "all": [], 
                 "ctp": [
                     "AUT", 
                     "ENR"
                 ], 
-                "all": [], 
                 "pve": [
                     "MD", 
                     "MD", 
@@ -755,12 +757,12 @@
         "Enchantress": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "ID", 
                     "DO", 
                     "IP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -770,12 +772,12 @@
         "Falcon": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "GB", 
                     "CRD", 
                     "IP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -785,8 +787,8 @@
         "Fandral": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -796,8 +798,8 @@
         "Fantomex": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -815,10 +817,10 @@
         "Gambit": {
             "current": {}, 
             "gear": {
+                "all": [], 
                 "ctp": [
                     "ENR"
                 ], 
-                "all": [], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -832,8 +834,8 @@
         "Gamora": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -843,10 +845,10 @@
         "Ghost": {
             "current": {}, 
             "gear": {
+                "all": [], 
                 "ctp": [
                     "ENR"
                 ], 
-                "all": [], 
                 "pve": [
                     "ID", 
                     "CRD", 
@@ -860,10 +862,10 @@
         "Ghost Panther": {
             "current": {}, 
             "gear": {
+                "all": [], 
                 "ctp": [
                     "ENR"
                 ], 
-                "all": [], 
                 "pve": [
                     "FD", 
                     "FD", 
@@ -881,8 +883,8 @@
         "Ghost Rider": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -892,12 +894,12 @@
         "Giant-Man": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "CRD", 
                     "GB", 
                     "DP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -907,12 +909,12 @@
         "Goliath": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "CRD", 
                     "HP", 
                     "IP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -922,8 +924,8 @@
         "Gorgon": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -933,8 +935,8 @@
         "Green Goblin": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -944,12 +946,12 @@
         "Groot": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "HP", 
                     "CRD", 
                     "IP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -959,12 +961,12 @@
         "Gwenpool": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "GB", 
                     "HP", 
                     "IP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -974,8 +976,8 @@
         "Hawkeye": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -985,8 +987,8 @@
         "Heimdall": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -996,12 +998,12 @@
         "Hela": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "DO", 
                     "CRD", 
                     "DP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1011,8 +1013,8 @@
         "Hellcat": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1022,8 +1024,8 @@
         "Hellstorm": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1033,8 +1035,8 @@
         "Hogun": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1044,8 +1046,8 @@
         "Hulk": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -1063,8 +1065,8 @@
         "Hulkbuster": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [
                     "GB", 
                     "HP", 
@@ -1082,10 +1084,10 @@
         "Human Torch": {
             "current": {}, 
             "gear": {
+                "all": [], 
                 "ctp": [
                     "ENR"
                 ], 
-                "all": [], 
                 "pve": [
                     "GB", 
                     "FD", 
@@ -1103,8 +1105,8 @@
         "Hyperion": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -1122,12 +1124,12 @@
         "Inferno": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "GB", 
                     "FD", 
                     "DP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1137,11 +1139,11 @@
         "Invisible Woman": {
             "current": {}, 
             "gear": {
+                "all": [], 
                 "ctp": [
                     "AUT", 
                     "DES"
                 ], 
-                "all": [], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -1159,12 +1161,12 @@
         "Iron Fist": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "DO", 
                     "CRR", 
                     "DP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1174,8 +1176,8 @@
         "Iron Hammer": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [
                     "LD", 
                     "LD", 
@@ -1193,10 +1195,10 @@
         "Iron-Man": {
             "current": {}, 
             "gear": {
+                "all": [], 
                 "ctp": [
                     "ENR"
                 ], 
-                "all": [], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -1210,8 +1212,8 @@
         "Ironheart": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1221,8 +1223,8 @@
         "Jane Foster": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1232,11 +1234,11 @@
         "Jean Grey": {
             "current": {}, 
             "gear": {
+                "all": [], 
                 "ctp": [
                     "AUT", 
                     "ENR"
                 ], 
-                "all": [], 
                 "pve": [
                     "FD", 
                     "FD", 
@@ -1254,12 +1256,12 @@
         "Jessica Jones": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "HP", 
                     "AD", 
                     "IP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1267,20 +1269,20 @@
             "tier": 1
         }, 
         "Juggernaut": {
-            "current": {},
+            "current": {}, 
             "gear": {
-                "all": [],
-                "pve": [],
+                "all": [], 
+                "pve": [], 
                 "pvp": []
-            },
-            "rank": "?",
+            }, 
+            "rank": "?", 
             "tier": 1
-        },
+        }, 
         "Kaecilius": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1290,8 +1292,8 @@
         "Karnak": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1301,8 +1303,8 @@
         "Kate Bishop": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1312,12 +1314,12 @@
         "Kid Kaiju": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "CRD", 
                     "GB", 
                     "IP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1327,8 +1329,8 @@
         "Killmonger": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -1346,8 +1348,8 @@
         "Kingpin": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1357,8 +1359,8 @@
         "Korath": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1368,12 +1370,12 @@
         "Kraven": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "DO", 
                     "CRD", 
                     "DP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1383,8 +1385,8 @@
         "Lash": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1394,8 +1396,8 @@
         "Lincoln": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1405,8 +1407,8 @@
         "Lizard": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1416,12 +1418,12 @@
         "Loki": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "HP", 
                     "CD", 
                     "IP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1431,12 +1433,12 @@
         "Luke Cage": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "HP", 
                     "AD", 
                     "IP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1446,10 +1448,10 @@
         "Luna Snow": {
             "current": {}, 
             "gear": {
+                "all": [], 
                 "ctp": [
                     "ENR"
                 ], 
-                "all": [], 
                 "pve": [
                     "CD", 
                     "CD", 
@@ -1463,8 +1465,8 @@
         "M.O.D.O.K": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1474,8 +1476,8 @@
         "Magik": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -1493,10 +1495,10 @@
         "Magneto": {
             "current": {}, 
             "gear": {
+                "all": [], 
                 "ctp": [
                     "ENR"
                 ], 
-                "all": [], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -1514,8 +1516,8 @@
         "Malekith": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1525,12 +1527,12 @@
         "Mantis": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "HP", 
                     "RR", 
                     "IP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1540,8 +1542,8 @@
         "Maximus": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1551,10 +1553,10 @@
         "Medusa": {
             "current": {}, 
             "gear": {
+                "all": [], 
                 "ctp": [
                     "ENR"
                 ], 
-                "all": [], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -1568,8 +1570,8 @@
         "Miles Morales": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [
                     "GB", 
                     "LD", 
@@ -1587,8 +1589,8 @@
         "Minn-Erva": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1598,11 +1600,11 @@
         "Mister Fantastic": {
             "current": {}, 
             "gear": {
+                "all": [], 
                 "ctp": [
                     "ENR", 
                     "AUT"
                 ], 
-                "all": [], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -1620,8 +1622,8 @@
         "Misty Knight": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1631,8 +1633,8 @@
         "Mockingbird": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1642,12 +1644,12 @@
         "Moon Girl": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "GB", 
                     "CRD", 
                     "DP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1657,12 +1659,12 @@
         "Moon Knight": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "GB", 
                     "HP", 
                     "IP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1672,8 +1674,8 @@
         "Morgan Le Fay": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -1691,12 +1693,12 @@
         "Ms. Marvel": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "HP", 
                     "RR", 
                     "IP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1706,8 +1708,8 @@
         "Mysterio": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1717,12 +1719,12 @@
         "Nadia Van Dyne": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "GB", 
                     "HP", 
                     "IP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1732,8 +1734,8 @@
         "Nebula": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1743,8 +1745,8 @@
         "Nick Fury": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1754,12 +1756,12 @@
         "Nightcrawler": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "GB", 
                     "HP", 
                     "IP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1769,11 +1771,11 @@
         "Nova": {
             "current": {}, 
             "gear": {
+                "all": [], 
                 "ctp": [
                     "ENR", 
                     "AUT"
                 ], 
-                "all": [], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -1791,12 +1793,12 @@
         "Odin": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "GB", 
                     "HP", 
                     "IP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1806,12 +1808,12 @@
         "Phil Coulson": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "HP", 
                     "HP", 
                     "IP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1821,8 +1823,8 @@
         "Proxima Midnight": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [
                     "GB", 
                     "CRD", 
@@ -1840,11 +1842,11 @@
         "Psylocke": {
             "current": {}, 
             "gear": {
+                "all": [], 
                 "ctp": [
                     "AUT", 
                     "ENR"
                 ], 
-                "all": [], 
                 "pve": [
                     "MD", 
                     "MD", 
@@ -1862,8 +1864,8 @@
         "Punisher": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -1877,12 +1879,12 @@
         "Quasar": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "GB", 
                     "CRD", 
                     "DP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1892,14 +1894,14 @@
         "Quicksilver": {
             "current": {}, 
             "gear": {
-                "ctp": [
-                    "ENR", 
-                    "DES"
-                ], 
                 "all": [
                     "GB", 
                     "CRD", 
                     "DP"
+                ], 
+                "ctp": [
+                    "ENR", 
+                    "DES"
                 ], 
                 "pve": [], 
                 "pvp": []
@@ -1910,12 +1912,12 @@
         "Red Hulk": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "HP", 
                     "RR", 
                     "IP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1925,8 +1927,8 @@
         "Red Skull": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1936,8 +1938,8 @@
         "Rhino": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1947,12 +1949,12 @@
         "Robbie Reyes": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "FD", 
                     "FD", 
                     "DP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1962,12 +1964,12 @@
         "Rocket Raccoon": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "CRD", 
                     "GB", 
                     "DP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1977,12 +1979,12 @@
         "Rogue": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "GB", 
                     "HP", 
                     "IP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -2008,16 +2010,16 @@
             }, 
             "rank": "?", 
             "tier": 1
-        },         
+        }, 
         "Sandman": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "CRD", 
                     "CRD", 
                     "DP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -2027,8 +2029,8 @@
         "Satana": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [
                     "GB", 
                     "FD", 
@@ -2046,11 +2048,11 @@
         "Scarlet Witch": {
             "current": {}, 
             "gear": {
+                "all": [], 
                 "ctp": [
                     "AUT", 
                     "ENR"
                 ], 
-                "all": [], 
                 "pve": [
                     "MD", 
                     "MD", 
@@ -2068,12 +2070,12 @@
         "Sentinel": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "GB", 
                     "HP", 
                     "IP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -2083,8 +2085,8 @@
         "Shang-Chi": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -2094,10 +2096,10 @@
         "Sharon Rogers": {
             "current": {}, 
             "gear": {
+                "all": [], 
                 "ctp": [
                     "ENR"
                 ], 
-                "all": [], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -2111,12 +2113,12 @@
         "She-Hulk": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "CRD", 
                     "CRD", 
                     "DP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -2126,8 +2128,8 @@
         "Shuri": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -2145,12 +2147,12 @@
         "Sif": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "DO", 
                     "CRD", 
                     "DP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -2160,12 +2162,12 @@
         "Silk": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "DO", 
                     "CRR", 
                     "IP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -2175,8 +2177,8 @@
         "Sin": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -2186,8 +2188,8 @@
         "Singularity": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -2197,8 +2199,8 @@
         "Sister Grimm": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -2208,8 +2210,8 @@
         "Skurge": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [
                     "GB", 
                     "CRD", 
@@ -2223,8 +2225,8 @@
         "Songbird": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -2234,12 +2236,12 @@
         "Spider-Gwen": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "DO", 
                     "CRD", 
                     "IP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -2249,11 +2251,11 @@
         "Spider-Man": {
             "current": {}, 
             "gear": {
+                "all": [], 
                 "ctp": [
                     "AUT", 
                     "DES"
                 ], 
-                "all": [], 
                 "pve": [
                     "CRD", 
                     "GB", 
@@ -2271,8 +2273,8 @@
         "Spider-Man 2099": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [
                     "CRD", 
                     "GB", 
@@ -2290,8 +2292,8 @@
         "Squirrel Girl": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -2301,8 +2303,8 @@
         "Star-Lord": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -2320,12 +2322,12 @@
         "Storm": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "LD", 
                     "GB", 
                     "DP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -2335,8 +2337,11 @@
         "Stryfe": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [
+                    "AUT", 
+                    "ENR"
+                ], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -2354,12 +2359,12 @@
         "Supergiant": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "MD", 
                     "DO", 
                     "DP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -2369,11 +2374,11 @@
         "Thanos": {
             "current": {}, 
             "gear": {
+                "all": [], 
                 "ctp": [
                     "ENR", 
                     "AUT"
                 ], 
-                "all": [], 
                 "pve": [
                     "GB", 
                     "CRD", 
@@ -2391,12 +2396,12 @@
         "Thing": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "HP", 
                     "GB", 
                     "IP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -2406,11 +2411,11 @@
         "Thor": {
             "current": {}, 
             "gear": {
+                "all": [], 
                 "ctp": [
                     "ENR", 
                     "AUT"
                 ], 
-                "all": [], 
                 "pve": [
                     "LD", 
                     "GB", 
@@ -2428,8 +2433,8 @@
         "Titania": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -2447,8 +2452,8 @@
         "Ulik": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -2458,8 +2463,8 @@
         "Ultron": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -2469,12 +2474,12 @@
         "Ulysses Klaue": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "CRR", 
                     "HP", 
                     "DP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -2484,8 +2489,8 @@
         "Valkyrie": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [
                     "CRD", 
                     "GB", 
@@ -2503,12 +2508,12 @@
         "Venom": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "GB", 
                     "HP", 
                     "IP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -2518,11 +2523,11 @@
         "Victorious": {
             "current": {}, 
             "gear": {
+                "all": [], 
                 "ctp": [
                     "ENR", 
                     "AUT"
                 ], 
-                "all": [], 
                 "pve": [
                     "HP", 
                     "HP", 
@@ -2540,8 +2545,8 @@
         "Vision": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -2551,8 +2556,8 @@
         "Volstagg": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -2562,8 +2567,8 @@
         "Vulture": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [
                     "ID", 
                     "CRD", 
@@ -2581,8 +2586,8 @@
         "War Machine": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -2594,24 +2599,24 @@
             "tier": 1
         }, 
         "Warpath": {
-            "current": {},
+            "current": {}, 
             "gear": {
-                "all": [],
-                "pve": [],
+                "all": [], 
+                "pve": [], 
                 "pvp": []
-            },
-            "rank": "?",
+            }, 
+            "rank": "?", 
             "tier": 1
-        },
+        }, 
         "Warwolf": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "HP", 
                     "CRD", 
                     "IP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -2621,10 +2626,10 @@
         "Wasp": {
             "current": {}, 
             "gear": {
+                "all": [], 
                 "ctp": [
                     "AUT"
                 ], 
-                "all": [], 
                 "pve": [], 
                 "pvp": [
                     "GB", 
@@ -2638,10 +2643,10 @@
         "Weapon Hex": {
             "current": {}, 
             "gear": {
+                "all": [], 
                 "ctp": [
                     "AUT"
                 ], 
-                "all": [], 
                 "pve": [
                     "GB", 
                     "CRD", 
@@ -2659,8 +2664,8 @@
         "Whiplash": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -2670,8 +2675,8 @@
         "White Fox": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -2689,8 +2694,8 @@
         "White Tiger": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -2700,8 +2705,8 @@
         "Wiccan": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -2711,11 +2716,11 @@
         "Winter Soldier": {
             "current": {}, 
             "gear": {
+                "all": [], 
                 "ctp": [
                     "ENR", 
                     "AUT"
                 ], 
-                "all": [], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -2733,11 +2738,11 @@
         "Wolverine": {
             "current": {}, 
             "gear": {
+                "all": [], 
                 "ctp": [
                     "AUT", 
                     "REF"
                 ], 
-                "all": [], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -2755,8 +2760,8 @@
         "Wong": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -2766,11 +2771,11 @@
         "X-23": {
             "current": {}, 
             "gear": {
+                "all": [], 
                 "ctp": [
                     "AUT", 
                     "DES"
                 ], 
-                "all": [], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -2788,12 +2793,12 @@
         "Yellowjacket": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [
                     "CRD", 
                     "CRD", 
                     "DP"
                 ], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -2803,8 +2808,8 @@
         "Yondu": {
             "current": {}, 
             "gear": {
-                "ctp": [], 
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -2814,31 +2819,32 @@
     }, 
     "defs": {
         "ctp": {
-            "AUT": "CTP of Authority",
-            "DES": "CTP of Destruction",
-            "ENR": "CTP of Energy",
-            "PAT": "CTP of Patience",
-            "RAG": "CTF of Rage",
-            "REF": "CTP of Refinement",
-            "REG": "CTP of Regeneration",
+            "AUT": "CTP of Authority", 
+            "DES": "CTP of Destruction", 
+            "ENR": "CTP of Energy", 
+            "PAT": "CTP of Patience", 
+            "RAG": "CTF of Rage", 
+            "REF": "CTP of Refinement", 
+            "REG": "CTP of Regeneration", 
             "TRA": "CTP of Transcendence"
-        },
+        }, 
         "gear": {
-            "AD": "All Defense",
-            "CD": "Cold Damage",
-            "CRD": "Critical Damage",
-            "CRR": "Critical Rate",
-            "DEF": "Ignore Defense",
-            "DO": "Dodge",
-            "DP": "Damage Proc",
-            "FD": "Fire Damage",
-            "GB": "Guard Break Immunity",
-            "HP": "Max HP",
-            "ID": "Ignore Dodge",
-            "IP": "Invincible Proc",
-            "LD": "Lightning Damage",
-            "MD": "Mind Damage",
-            "PD": "Poison Damage",
+            "AD": "All Defense", 
+            "CD": "Cold Damage", 
+            "CRD": "Critical Damage", 
+            "CRR": "Critical Rate", 
+            "DEF": "Ignore Defense", 
+            "DO": "Dodge", 
+            "DP": "Damage Proc", 
+            "FD": "Fire Damage", 
+            "GB": "Guard Break Immunity", 
+            "GEN": "Generic Gear", 
+            "HP": "Max HP", 
+            "ID": "Ignore Dodge", 
+            "IP": "Invincible Proc", 
+            "LD": "Lightning Damage", 
+            "MD": "Mind Damage", 
+            "PD": "Poison Damage", 
             "RR": "Recovery Rate"
         }
     }

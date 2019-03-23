@@ -1,22 +1,24 @@
 #!/usr/bin/env python
-import json, sys, argparse, requests, os
+import json, sys, argparse, requests, os, collections
 
 __author__  = "Jeff White [karttoon] @noottrak"
 __email__   = "karttoon@gmail.com"
-__version__ = "1.0.0"
-__date__    = "22MAR2019"
+__version__ = "1.0.1"
+__date__    = "23MAR2019"
 
 requests.packages.urllib3.disable_warnings()
+
 
 def getMaster():
 
     url = "https://raw.githubusercontent.com/karttoon/mffgear/master/mff_master.db"
 
-    print "\n[!] Downloading latest DB file from %s" % (url)
+    print("\n[!] Downloading latest DB file from %s" % (url))
 
     data = json.loads(requests.get(url, verify=False).content)
 
     return data
+
 
 def findGear(outResult, data, userResponse):
 
@@ -49,6 +51,7 @@ def findGear(outResult, data, userResponse):
             del outResult[mffChar]
 
     return outResult
+
 
 def buildPrint(outResult, data):
 
@@ -109,6 +112,7 @@ def buildPrint(outResult, data):
 
     return printMsg
 
+
 def outPrint(printMsg, args, data):
 
     alreadyGear = 0
@@ -118,15 +122,15 @@ def outPrint(printMsg, args, data):
 
         if row.startswith("!"):
             if candidateGear == 0:
-                print "\n[+] Candidate for Gear\n"
+                print("\n[+] Candidate for Gear\n")
                 candidateGear = 1
-            print "[%.2d] %s " % (count + 1, row[1:])
+            print("[%.2d] %s " % (count + 1, row[1:]))
 
         if row.startswith("?"):
             if alreadyGear == 0:
-                print "\n[+] Already Geared\n"
+                print("\n[+] Already Geared\n")
                 alreadyGear = 1
-            print "[%.2d] %s " % (count + 1, row[1:])
+            print("[%.2d] %s " % (count + 1, row[1:]))
 
     if args.verbose:
 
@@ -137,23 +141,24 @@ def outPrint(printMsg, args, data):
             charPick = int(userInput) - 1
 
             while charPick > len(printMsg):
-                print "\n[!] Not a valid pick"
+                print("\n[!] Not a valid pick")
 
             mffChar = printMsg[charPick].split("]")[1].split(" - ")[0].strip()
             data = updateChar(mffChar, data)
 
         else:
-            print "\n[!] Skipping update process"
+            print("\n[!] Skipping update process")
             pass
 
     else:
-        print
+        print()
 
     return data
 
+
 def updateChar(mffChar, data):
 
-    print "\n[+] Updating %s\n\t[-] Use format \"CRR 25\" to indicate Crit Rate 25%% or \"ENR\" for CTP of Energy\n" % (mffChar)
+    print("\n[+] Updating %s\n\t[-] Use format \"CRR 25\" to indicate Crit Rate 25%% or \"ENR\" for CTP of Energy\n" % (mffChar))
 
     for slotValue in range(1,4):
 
@@ -161,7 +166,7 @@ def updateChar(mffChar, data):
         gearType = userInput.split(" ")[0].upper()
 
         if gearType not in data["defs"]["gear"] and gearType not in data["defs"]["ctp"]:
-            print "\n[!] Not a valid gear abbreviation - use `-d` flag to see defined entries"
+            print("\n[!] Not a valid gear abbreviation - use `-d` flag to see defined entries")
             break
 
         if len(userInput.split(" ")) > 1 and userInput.split(" ")[1].isdigit():
@@ -175,8 +180,9 @@ def updateChar(mffChar, data):
         else:
             data["chars"][mffChar]["current"]["slot%s" % (slotValue)] = {gearType:gearValue}
 
-    print
+    print()
     return data
+
 
 def mergeDB(data):
 
@@ -186,7 +192,7 @@ def mergeDB(data):
 
     # Update definitions for attributes/CTPs
     if mainDB["defs"] != data["defs"]:
-        print "[!] Found new gear definitions"
+        print("[!] Found new gear definitions")
         data["defs"] = mainDB["defs"]
         newUpdate = 1
 
@@ -195,48 +201,84 @@ def mergeDB(data):
 
         # Add new chars
         if mffChar not in data["chars"]:
-            print "[!] Adding new character %s" % (mffChar)
+            print("[!] Adding new character %s" % (mffChar))
             data["chars"][mffChar] = mainDB["chars"][mffChar]
             newUpdate = 1
 
         # Check for rank change
         if mainDB["chars"][mffChar]["rank"] != data["chars"][mffChar]["rank"]:
-            print "[!] Changing rank for %s from %s to %s" % (mffChar,
+            print("[!] Changing rank for %s from %s to %s" % (mffChar,
                                                               data["chars"][mffChar]["rank"],
-                                                              mainDB["chars"][mffChar]["rank"])
+                                                              mainDB["chars"][mffChar]["rank"]))
             data["chars"][mffChar]["rank"] = mainDB["chars"][mffChar]["rank"]
             newUpdate = 1
 
         # Check for gear changes
         for gearType in mainDB["chars"][mffChar]["gear"]:
             if mainDB["chars"][mffChar]["gear"][gearType] != data["chars"][mffChar]["gear"][gearType]:
-                print "[!] Updating %s's %s gear to:\n%s" % (mffChar, gearType.upper(), json.dumps(mainDB["chars"][mffChar]["gear"][gearType], indent=4, sort_keys=True))
+                print("[!] Updating %s's %s gear to:\n%s" % (mffChar,
+                                                             gearType.upper(),
+                                                             json.dumps(mainDB["chars"][mffChar]["gear"][gearType], indent=4, sort_keys=True)))
                 data["chars"][mffChar]["gear"][gearType] = mainDB["chars"][mffChar]["gear"][gearType]
                 newUpdate = 1
 
     if newUpdate == 0:
-        print "[!] No new updates"
+        print("[!] No new updates")
     else:
-        print
+        print()
 
     return data
+
 
 def charSetup(args, data):
 
-    for mffChar in data["chars"]:
+    userInput = raw_input("\n[!] Type LIST to start pick and choose for characters or Enter to roll through them all - ").upper()
 
-        userInput = raw_input("\n[!] Edit %s? [Y/N or Enter] - " % (mffChar)).upper()
+    if userInput == "LIST":
 
-        if userInput == "Y":
+        stopUpdate = 0
 
-            userInput = input("\t[=] Current Tier? - ")
-            data["chars"][mffChar]["tier"] = userInput
+        listChars = []
 
-            data = updateChar(mffChar, data)
+        for mffChar in data["chars"]:
+            listChars.append(mffChar)
 
-        saveFile(args, data)
+        listChars.sort()
+
+        # Init LIST
+        for count, mffChar in enumerate(listChars):
+            print("%-3s - %s" % (count + 1, mffChar))
+
+        while stopUpdate == 0:
+
+            userInput = raw_input("\n[+] Enter # for character to update, \"LIST\", or \"STOP\" to exit - ").upper()
+
+            if userInput == "STOP":
+                stopUpdate = 1
+            elif userInput == "LIST":
+                for count in listChars:
+                    print("%-3s - %s" % (count, listChars[count]))
+            else:
+                if userInput.isdigit():
+                    data = updateChar(listChars[int(userInput) - 1], data)
+
+    else:
+
+        for mffChar in data["chars"]:
+
+            userInput = raw_input("\n[!] Edit %s? [Y/N or Enter] - " % (mffChar)).upper()
+
+            if userInput == "Y":
+
+                userInput = input("\t[=] Current Tier? - ")
+                data["chars"][mffChar]["tier"] = userInput
+
+                data = updateChar(mffChar, data)
+
+            saveFile(args, data)
 
     return data
+
 
 def saveFile(args, data):
 
@@ -245,6 +287,7 @@ def saveFile(args, data):
     writeOut.close()
 
     return
+
 
 def main():
 
@@ -268,7 +311,7 @@ def main():
         if len(unkargs) >= 1:
             for value in unkargs[0].upper().split(","):
                 if value not in data["defs"]["gear"] and value not in data["defs"]["ctp"]:
-                    print "[!] Unknown gear type %s" % (value)
+                    print("[!] Unknown gear type %s" % (value))
                     sys.exit(1)
             userResponse = unkargs[0].upper().split(",")
         else:
@@ -276,11 +319,11 @@ def main():
 
         if (args.defs or args.init):
 
-            print "\n[+] Gear Abbreviations\n"
-            print json.dumps(data["defs"]["gear"], indent=4, sort_keys=True)
+            print("\n[+] Gear Abbreviations\n")
+            print(json.dumps(data["defs"]["gear"], indent=4, sort_keys=True))
 
-            print "\n[+] CTP Abbreviations\n"
-            print json.dumps(data["defs"]["ctp"], indent=4, sort_keys=True)
+            print("\n[+] CTP Abbreviations\n")
+            print(json.dumps(data["defs"]["ctp"], indent=4, sort_keys=True))
 
         if args.init:
             charSetup(args, data)
@@ -299,7 +342,7 @@ def main():
 
     except Exception as error:
 
-        print "\n[!] Ran into an error. Saving DB.\n%s" % (error)
+        print("\n[!] Ran into an error. Saving DB.\n%s" % (error))
         saveFile(args, data)
 
     return
