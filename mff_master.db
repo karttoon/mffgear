@@ -1989,6 +1989,16 @@
             "rank": "A", 
             "tier": 1
         }, 
+        "Sabertooth": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "?", 
+            "tier": 1
+        },         
         "Sandman": {
             "current": {}, 
             "gear": {
