@@ -180,7 +180,7 @@ def updateChar(mffChar, data):
         else:
             data["chars"][mffChar]["current"]["slot%s" % (slotValue)] = {gearType:gearValue}
 
-    print()
+    print
     return data
 
 
@@ -255,12 +255,14 @@ def charSetup(args, data):
 
             if userInput == "STOP":
                 stopUpdate = 1
+                saveFile(args, data)
             elif userInput == "LIST":
                 for count in listChars:
                     print("%-3s - %s" % (count, listChars[count]))
             else:
                 if userInput.isdigit():
                     data = updateChar(listChars[int(userInput) - 1], data)
+                    saveFile(args, data)
 
     else:
 
