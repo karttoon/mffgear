@@ -257,7 +257,7 @@ def charSetup(args, data):
                 stopUpdate = 1
                 saveFile(args, data)
             elif userInput == "LIST":
-                for count in listChars:
+                for count, mffChar in enumerate(listChars):
                     print("%-3s - %s" % (count, listChars[count]))
             else:
                 if userInput.isdigit():

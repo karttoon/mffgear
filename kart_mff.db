@@ -2720,7 +2720,11 @@
             "tier": 2
         }, 
         "Valkyrie": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "ENR": 0
+                }
+            }, 
             "gear": {
                 "all": [], 
                 "ctp": [], 
