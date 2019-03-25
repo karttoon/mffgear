@@ -151,7 +151,7 @@ def outPrint(printMsg, args, data):
             pass
 
     else:
-        print()
+        print
 
     return data
 
@@ -225,7 +225,7 @@ def mergeDB(data):
     if newUpdate == 0:
         print("[!] No new updates")
     else:
-        print()
+        print
 
     return data
 

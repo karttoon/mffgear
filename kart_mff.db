@@ -373,7 +373,9 @@
             }, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "ENR"
+                ], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -2550,7 +2552,10 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "AUT", 
+                    "ENR"
+                ], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -2720,11 +2725,7 @@
             "tier": 2
         }, 
         "Valkyrie": {
-            "current": {
-                "slot1": {
-                    "ENR": 0
-                }
-            }, 
+            "current": {}, 
             "gear": {
                 "all": [], 
                 "ctp": [], 
@@ -3089,6 +3090,7 @@
             "DP": "Damage Proc", 
             "FD": "Fire Damage", 
             "GB": "Guard Break Immunity", 
+            "GEN": "Generic Gear", 
             "HP": "Max HP", 
             "ID": "Ignore Dodge", 
             "IP": "Invincible Proc", 
