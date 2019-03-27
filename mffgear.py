@@ -8,6 +8,14 @@ __date__    = "23MAR2019"
 
 requests.packages.urllib3.disable_warnings()
 
+def inputCheck(msg):
+
+    if sys.version_info[0] < 3:
+        msg = raw_input(msg)
+    else:
+        msg = input(msg)
+
+    return msg
 
 def getMaster():
 
@@ -46,9 +54,13 @@ def findGear(outResult, data, userResponse):
                 if len(tempGear) == 0 and lenCheck != 0:
                     outResult[mffChar][gearSet] = charGear[gearSet]
 
+    removeChar = []
     for mffChar, charGear in outResult.items():
         if charGear == {}:
-            del outResult[mffChar]
+            removeChar.append(mffChar)
+
+    for mffChar in removeChar:
+        del outResult[mffChar]
 
     return outResult
 
@@ -80,7 +92,7 @@ def buildPrint(outResult, data):
 
         for tierLvl in ["S", "A", "B", "C", "D", "?"]:
             for mffChar in charTier[tierLvl]:
-                gearType = outResult[mffChar].keys()[0]
+                gearType = list(outResult[mffChar].keys())[0]
                 printMsg.append("![Tier %s | Rank %s | Gear %s] %-*s - %s" % (data["chars"][mffChar]["tier"],
                                               data["chars"][mffChar]["rank"],
                                               gearType.upper(),
@@ -134,7 +146,7 @@ def outPrint(printMsg, args, data):
 
     if args.verbose:
 
-        userInput = raw_input("\n[+] Enter the character number to update or Enter to skip: ")
+        userInput = inputCheck("\n[+] Enter the character number to update or Enter to skip: ")
 
         if userInput.isdigit():
 
@@ -162,7 +174,7 @@ def updateChar(mffChar, data):
 
     for slotValue in range(1,4):
 
-        userInput = raw_input("Slot %s: " % (slotValue))
+        userInput = inputCheck("Slot %s: " % (slotValue))
         gearType = userInput.split(" ")[0].upper()
 
         if gearType not in data["defs"]["gear"] and gearType not in data["defs"]["ctp"]:
@@ -232,7 +244,7 @@ def mergeDB(data):
 
 def charSetup(args, data):
 
-    userInput = raw_input("\n[!] Type LIST to start pick and choose for characters or Enter to roll through them all - ").upper()
+    userInput = inputCheck("\n[!] Type LIST to start pick and choose for characters or Enter to roll through them all - ").upper()
 
     if userInput == "LIST":
 
@@ -251,7 +263,7 @@ def charSetup(args, data):
 
         while stopUpdate == 0:
 
-            userInput = raw_input("\n[+] Enter # for character to update, \"LIST\", or \"STOP\" to exit - ").upper()
+            userInput = inputCheck("\n[+] Enter # for character to update, \"LIST\", or \"STOP\" to exit - ").upper()
 
             if userInput == "STOP":
                 stopUpdate = 1
@@ -268,7 +280,7 @@ def charSetup(args, data):
 
         for mffChar in data["chars"]:
 
-            userInput = raw_input("\n[!] Edit %s? [Y/N or Enter] - " % (mffChar)).upper()
+            userInput = inputCheck("\n[!] Edit %s? [Y/N or Enter] - " % (mffChar)).upper()
 
             if userInput == "Y":
 

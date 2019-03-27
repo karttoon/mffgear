@@ -2655,7 +2655,9 @@
             "tier": 2
         }, 
         "Titania": {
-            "current": {}, 
+            "current": {
+                "slot1": {}
+            }, 
             "gear": {
                 "all": [], 
                 "ctp": [], 
