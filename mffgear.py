@@ -25,6 +25,9 @@ def getMaster():
 
     data = json.loads(requests.get(url, verify=False).content)
 
+    # Local merge
+    #data = json.load(open("mff_master.db"))
+
     return data
 
 
@@ -163,7 +166,7 @@ def outPrint(printMsg, args, data):
             pass
 
     else:
-        print
+        print("")
 
     return data
 
@@ -192,7 +195,7 @@ def updateChar(mffChar, data):
         else:
             data["chars"][mffChar]["current"]["slot%s" % (slotValue)] = {gearType:gearValue}
 
-    print
+    print("")
     return data
 
 
@@ -210,6 +213,12 @@ def mergeDB(data):
 
     # Check for new chars and new gear/ranks
     for mffChar in mainDB["chars"]:
+
+        # Correct any empty missing fields - CYA
+        fields = ["all","ctp","pve","pvp"]
+        for entry in fields:
+            if entry not in data["chars"][mffChar]["gear"]:
+                data["chars"][mffChar]["gear"][entry] = []
 
         # Add new chars
         if mffChar not in data["chars"]:
@@ -237,7 +246,7 @@ def mergeDB(data):
     if newUpdate == 0:
         print("[!] No new updates")
     else:
-        print
+        print("")
 
     return data
 

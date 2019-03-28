@@ -4,7 +4,9 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "REF"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -16,7 +18,8 @@
             "gear": {
                 "all": [], 
                 "ctp": [
-                    "AUT"
+                    "AUT", 
+                    "DES"
                 ], 
                 "pve": [], 
                 "pvp": [
@@ -43,7 +46,10 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "ENR", 
+                    "AUT"
+                ], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -81,7 +87,10 @@
                     "HP", 
                     "DP"
                 ], 
-                "ctp": [], 
+                "ctp": [
+                    "DES", 
+                    "AUT"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -96,7 +105,9 @@
                     "RR", 
                     "IP"
                 ], 
-                "ctp": [], 
+                "ctp": [
+                    "REF"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -127,8 +138,14 @@
         "Angela": {
             "current": {}, 
             "gear": {
-                "all": [], 
-                "ctp": [], 
+                "all": [
+                    "DO", 
+                    "FD", 
+                    "DP"
+                ], 
+                "ctp": [
+                    "PAT"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -139,7 +156,10 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "ENT", 
+                    "PAT"
+                ], 
                 "pve": [], 
                 "pvp": [
                     "DO", 
@@ -153,7 +173,11 @@
         "Anti-Man": {
             "current": {}, 
             "gear": {
-                "all": [], 
+                "all": [
+                    "CRR", 
+                    "CRD", 
+                    "DP"
+                ], 
                 "ctp": [
                     "ENR"
                 ], 
@@ -170,9 +194,14 @@
         "Apocalypse": {
             "current": {}, 
             "gear": {
-                "all": [], 
+                "all": [
+                    "CRR", 
+                    "CRD", 
+                    "DP"
+                ], 
                 "ctp": [
-                    "ENR"
+                    "ENR", 
+                    "AUT"
                 ], 
                 "pve": [
                     "CRD", 
@@ -188,7 +217,10 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "ENR", 
+                    "DES"
+                ], 
                 "pve": [], 
                 "pvp": [
                     "GB", 
@@ -203,7 +235,9 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "PAT"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -218,7 +252,9 @@
                     "HP", 
                     "DP"
                 ], 
-                "ctp": [], 
+                "ctp": [
+                    "REF"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -229,7 +265,10 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "DES", 
+                    "AUT"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -273,7 +312,10 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "DES", 
+                    "PAT"
+                ], 
                 "pve": [
                     "LD", 
                     "DO", 
@@ -292,7 +334,9 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "PAT"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -303,7 +347,9 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "PAT"
+                ], 
                 "pve": [], 
                 "pvp": [
                     "GB", 
@@ -367,8 +413,15 @@
         "Captain Marvel": {
             "current": {}, 
             "gear": {
-                "all": [], 
-                "ctp": [], 
+                "all": [
+                    "CRD", 
+                    "GB", 
+                    "IP"
+                ], 
+                "ctp": [
+                    "RAG", 
+                    "DES"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -378,8 +431,14 @@
         "Carnage": {
             "current": {}, 
             "gear": {
-                "all": [], 
-                "ctp": [], 
+                "all": [
+                    "CRR", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "ctp": [
+                    "TRA"
+                ], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -398,7 +457,9 @@
                     "HP", 
                     "IP"
                 ], 
-                "ctp": [], 
+                "ctp": [
+                    "TRA"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -409,7 +470,10 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "DES", 
+                    "REF"
+                ], 
                 "pve": [], 
                 "pvp": [
                     "GB", 
@@ -423,7 +487,11 @@
         "Corvus Glaive": {
             "current": {}, 
             "gear": {
-                "all": [], 
+                "all": [
+                    "HP", 
+                    "DO", 
+                    "IP"
+                ], 
                 "ctp": [
                     "AUT"
                 ], 
@@ -449,7 +517,10 @@
                     "HP", 
                     "IP"
                 ], 
-                "ctp": [], 
+                "ctp": [
+                    "TRA", 
+                    "AUT"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -471,7 +542,10 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "DES", 
+                    "AUT"
+                ], 
                 "pve": [
                     "GB", 
                     "CRD", 
@@ -513,7 +587,10 @@
                     "HP", 
                     "IP"
                 ], 
-                "ctp": [], 
+                "ctp": [
+                    "DES", 
+                    "AUT"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -535,7 +612,9 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "PAT"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -579,7 +658,9 @@
                     "AD", 
                     "IP"
                 ], 
-                "ctp": [], 
+                "ctp": [
+                    "REF"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -589,7 +670,11 @@
         "Doctor Doom": {
             "current": {}, 
             "gear": {
-                "all": [], 
+                "all": [
+                    "GB", 
+                    "HP", 
+                    "IP"
+                ], 
                 "ctp": [
                     "ENR", 
                     "AUT"
@@ -612,7 +697,9 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "AUT"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -643,8 +730,15 @@
         "Domino": {
             "current": {}, 
             "gear": {
-                "all": [], 
-                "ctp": [], 
+                "all": [
+                    "GB", 
+                    "DO", 
+                    "DP"
+                ], 
+                "ctp": [
+                    "DES", 
+                    "AUT"
+                ], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -694,8 +788,15 @@
         "Ebony Maw": {
             "current": {}, 
             "gear": {
-                "all": [], 
-                "ctp": [], 
+                "all": [
+                    "CRR", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "ctp": [
+                    "DES", 
+                    "PAT"
+                ], 
                 "pve": [], 
                 "pvp": [
                     "GB", 
@@ -710,7 +811,9 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "PAT"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -725,7 +828,9 @@
                     "CRD", 
                     "DP"
                 ], 
-                "ctp": [], 
+                "ctp": [
+                    "DES"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -762,7 +867,10 @@
                     "DO", 
                     "IP"
                 ], 
-                "ctp": [], 
+                "ctp": [
+                    "DES", 
+                    "AUT"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -777,8 +885,14 @@
                     "CRD", 
                     "IP"
                 ], 
-                "ctp": [], 
-                "pve": [], 
+                "ctp": [
+                    "AUT"
+                ], 
+                "pve": [
+                    "DO", 
+                    "CRD", 
+                    "DP"
+                ], 
                 "pvp": []
             }, 
             "rank": "B", 
@@ -798,8 +912,15 @@
         "Fantomex": {
             "current": {}, 
             "gear": {
-                "all": [], 
-                "ctp": [], 
+                "all": [
+                    "CRD", 
+                    "HP", 
+                    "DP"
+                ], 
+                "ctp": [
+                    "DES", 
+                    "REF"
+                ], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -835,7 +956,9 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "PAT"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -845,9 +968,14 @@
         "Ghost": {
             "current": {}, 
             "gear": {
-                "all": [], 
+                "all": [
+                    "GB", 
+                    "CRD", 
+                    "DP"
+                ], 
                 "ctp": [
-                    "ENR"
+                    "ENR", 
+                    "AUT"
                 ], 
                 "pve": [
                     "ID", 
@@ -862,9 +990,14 @@
         "Ghost Panther": {
             "current": {}, 
             "gear": {
-                "all": [], 
+                "all": [
+                    "FD", 
+                    "FD", 
+                    "IP"
+                ], 
                 "ctp": [
-                    "ENR"
+                    "ENR", 
+                    "AUT"
                 ], 
                 "pve": [
                     "FD", 
@@ -883,7 +1016,11 @@
         "Ghost Rider": {
             "current": {}, 
             "gear": {
-                "all": [], 
+                "all": [
+                    "GB", 
+                    "FD", 
+                    "DP"
+                ], 
                 "ctp": [], 
                 "pve": [], 
                 "pvp": []
@@ -899,7 +1036,10 @@
                     "GB", 
                     "DP"
                 ], 
-                "ctp": [], 
+                "ctp": [
+                    "TRA", 
+                    "PAT"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -914,7 +1054,9 @@
                     "HP", 
                     "IP"
                 ], 
-                "ctp": [], 
+                "ctp": [
+                    "DES"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -935,8 +1077,14 @@
         "Green Goblin": {
             "current": {}, 
             "gear": {
-                "all": [], 
-                "ctp": [], 
+                "all": [
+                    "PD", 
+                    "DO", 
+                    "DP"
+                ], 
+                "ctp": [
+                    "PAT"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -951,9 +1099,15 @@
                     "CRD", 
                     "IP"
                 ], 
-                "ctp": [], 
+                "ctp": [
+                    "REF"
+                ], 
                 "pve": [], 
-                "pvp": []
+                "pvp": [
+                    "GB", 
+                    "HP", 
+                    "IP"
+                ]
             }, 
             "rank": "B", 
             "tier": 1
@@ -966,7 +1120,9 @@
                     "HP", 
                     "IP"
                 ], 
-                "ctp": [], 
+                "ctp": [
+                    "DES"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -988,7 +1144,10 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "PAT", 
+                    "REF"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1003,7 +1162,10 @@
                     "CRD", 
                     "DP"
                 ], 
-                "ctp": [], 
+                "ctp": [
+                    "PAT", 
+                    "AUT"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1025,7 +1187,9 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "TRA"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1046,8 +1210,14 @@
         "Hulk": {
             "current": {}, 
             "gear": {
-                "all": [], 
-                "ctp": [], 
+                "all": [
+                    "HP", 
+                    "RR", 
+                    "DP"
+                ], 
+                "ctp": [
+                    "DES"
+                ], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -1066,7 +1236,10 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "DES", 
+                    "AUT"
+                ], 
                 "pve": [
                     "GB", 
                     "HP", 
@@ -1079,6 +1252,17 @@
                 ]
             }, 
             "rank": "A", 
+            "tier": 1
+        }, 
+        "Hulkling": {
+            "current": {}, 
+            "gear": {
+                "all": [], 
+                "ctp": [], 
+                "pve": [], 
+                "pvp": []
+            }, 
+            "rank": "C", 
             "tier": 1
         }, 
         "Human Torch": {
@@ -1106,7 +1290,9 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "AUT"
+                ], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -1129,7 +1315,9 @@
                     "FD", 
                     "DP"
                 ], 
-                "ctp": [], 
+                "ctp": [
+                    "AUT"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1166,8 +1354,14 @@
                     "CRR", 
                     "DP"
                 ], 
-                "ctp": [], 
-                "pve": [], 
+                "ctp": [
+                    "REF"
+                ], 
+                "pve": [
+                    "HP", 
+                    "CRD", 
+                    "DP"
+                ], 
                 "pvp": []
             }, 
             "rank": "A", 
@@ -1177,7 +1371,10 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "ENR", 
+                    "REF"
+                ], 
                 "pve": [
                     "LD", 
                     "LD", 
@@ -1195,7 +1392,11 @@
         "Iron-Man": {
             "current": {}, 
             "gear": {
-                "all": [], 
+                "all": [
+                    "GB", 
+                    "CRD", 
+                    "DP"
+                ], 
                 "ctp": [
                     "ENR"
                 ], 
@@ -1213,7 +1414,9 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "REF"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1234,10 +1437,15 @@
         "Jean Grey": {
             "current": {}, 
             "gear": {
-                "all": [], 
+                "all": [
+                    "HP", 
+                    "FD", 
+                    "DP"
+                ], 
                 "ctp": [
                     "AUT", 
-                    "ENR"
+                    "ENR", 
+                    "DES"
                 ], 
                 "pve": [
                     "FD", 
@@ -1261,7 +1469,9 @@
                     "AD", 
                     "IP"
                 ], 
-                "ctp": [], 
+                "ctp": [
+                    "REF"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1275,14 +1485,21 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "?", 
+            "rank": "S", 
             "tier": 1
         }, 
         "Kaecilius": {
             "current": {}, 
             "gear": {
-                "all": [], 
-                "ctp": [], 
+                "all": [
+                    "CRR", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "ctp": [
+                    "DES", 
+                    "AUT"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1294,7 +1511,11 @@
             "gear": {
                 "all": [], 
                 "ctp": [], 
-                "pve": [], 
+                "pve": [
+                    "CRD", 
+                    "DO", 
+                    "DP"
+                ], 
                 "pvp": []
             }, 
             "rank": "C", 
@@ -1304,8 +1525,14 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
-                "pve": [], 
+                "ctp": [
+                    "PAT"
+                ], 
+                "pve": [
+                    "CRR", 
+                    "DO", 
+                    "DP"
+                ], 
                 "pvp": []
             }, 
             "rank": "B", 
@@ -1319,7 +1546,9 @@
                     "GB", 
                     "IP"
                 ], 
-                "ctp": [], 
+                "ctp": [
+                    "TRA"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1349,7 +1578,9 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "TRA"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1360,8 +1591,14 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
-                "pve": [], 
+                "ctp": [
+                    "ENR"
+                ], 
+                "pve": [
+                    "CRD", 
+                    "DO", 
+                    "IP"
+                ], 
                 "pvp": []
             }, 
             "rank": "A", 
@@ -1375,8 +1612,14 @@
                     "CRD", 
                     "DP"
                 ], 
-                "ctp": [], 
-                "pve": [], 
+                "ctp": [
+                    "TRA"
+                ], 
+                "pve": [
+                    "CRD", 
+                    "ID", 
+                    "DP"
+                ], 
                 "pvp": []
             }, 
             "rank": "B", 
@@ -1397,8 +1640,14 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
-                "pve": [], 
+                "ctp": [
+                    "DES"
+                ], 
+                "pve": [
+                    "GB", 
+                    "LD", 
+                    "IP"
+                ], 
                 "pvp": []
             }, 
             "rank": "B", 
@@ -1408,8 +1657,14 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
-                "pve": [], 
+                "ctp": [
+                    "DES"
+                ], 
+                "pve": [
+                    "GB", 
+                    "HP", 
+                    "IP"
+                ], 
                 "pvp": []
             }, 
             "rank": "C", 
@@ -1423,8 +1678,14 @@
                     "CD", 
                     "IP"
                 ], 
-                "ctp": [], 
-                "pve": [], 
+                "ctp": [
+                    "TRA"
+                ], 
+                "pve": [
+                    "GB", 
+                    "HP", 
+                    "IP"
+                ], 
                 "pvp": []
             }, 
             "rank": "A", 
@@ -1438,7 +1699,9 @@
                     "AD", 
                     "IP"
                 ], 
-                "ctp": [], 
+                "ctp": [
+                    "REF"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1466,7 +1729,9 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "DES"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1477,7 +1742,10 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "DES", 
+                    "REF"
+                ], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -1516,8 +1784,14 @@
         "Malekith": {
             "current": {}, 
             "gear": {
-                "all": [], 
-                "ctp": [], 
+                "all": [
+                    "GB", 
+                    "HP", 
+                    "IP"
+                ], 
+                "ctp": [
+                    "REF"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1532,7 +1806,10 @@
                     "RR", 
                     "IP"
                 ], 
-                "ctp": [], 
+                "ctp": [
+                    "ENR", 
+                    "REF"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1543,7 +1820,9 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "TRA"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1555,7 +1834,8 @@
             "gear": {
                 "all": [], 
                 "ctp": [
-                    "ENR"
+                    "ENR", 
+                    "PAT"
                 ], 
                 "pve": [
                     "CRD", 
@@ -1571,7 +1851,10 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "ENR", 
+                    "PAT"
+                ], 
                 "pve": [
                     "GB", 
                     "LD", 
@@ -1590,7 +1873,9 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "ENR"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1624,7 +1909,11 @@
             "gear": {
                 "all": [], 
                 "ctp": [], 
-                "pve": [], 
+                "pve": [
+                    "GB", 
+                    "CD", 
+                    "DP"
+                ], 
                 "pvp": []
             }, 
             "rank": "C", 
@@ -1634,7 +1923,9 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "PAT"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1649,8 +1940,15 @@
                     "CRD", 
                     "DP"
                 ], 
-                "ctp": [], 
-                "pve": [], 
+                "ctp": [
+                    "TRA", 
+                    "PAT"
+                ], 
+                "pve": [
+                    "HP", 
+                    "CRD", 
+                    "DP"
+                ], 
                 "pvp": []
             }, 
             "rank": "S", 
@@ -1664,9 +1962,15 @@
                     "HP", 
                     "IP"
                 ], 
-                "ctp": [], 
+                "ctp": [
+                    "REF"
+                ], 
                 "pve": [], 
-                "pvp": []
+                "pvp": [
+                    "HP", 
+                    "RR", 
+                    "IP"
+                ]
             }, 
             "rank": "B", 
             "tier": 1
@@ -1674,8 +1978,14 @@
         "Morgan Le Fay": {
             "current": {}, 
             "gear": {
-                "all": [], 
-                "ctp": [], 
+                "all": [
+                    "CRD", 
+                    "ID", 
+                    "IP"
+                ], 
+                "ctp": [
+                    "ENR"
+                ], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -1698,7 +2008,9 @@
                     "RR", 
                     "IP"
                 ], 
-                "ctp": [], 
+                "ctp": [
+                    "REF"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1708,8 +2020,14 @@
         "Mysterio": {
             "current": {}, 
             "gear": {
-                "all": [], 
-                "ctp": [], 
+                "all": [
+                    "MD", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "ctp": [
+                    "REF"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1724,7 +2042,10 @@
                     "HP", 
                     "IP"
                 ], 
-                "ctp": [], 
+                "ctp": [
+                    "DES", 
+                    "AUT"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1734,8 +2055,14 @@
         "Nebula": {
             "current": {}, 
             "gear": {
-                "all": [], 
-                "ctp": [], 
+                "all": [
+                    "GB", 
+                    "LD", 
+                    "IP"
+                ], 
+                "ctp": [
+                    "PAT"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1746,7 +2073,9 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "ENR"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1761,11 +2090,14 @@
                     "HP", 
                     "IP"
                 ], 
-                "ctp": [], 
+                "ctp": [
+                    "DES", 
+                    "PAT"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "B", 
+            "rank": "A", 
             "tier": 1
         }, 
         "Nova": {
@@ -1798,7 +2130,10 @@
                     "HP", 
                     "IP"
                 ], 
-                "ctp": [], 
+                "ctp": [
+                    "DES", 
+                    "AUT"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1824,7 +2159,10 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "DES", 
+                    "AUT"
+                ], 
                 "pve": [
                     "GB", 
                     "CRD", 
@@ -1864,8 +2202,15 @@
         "Punisher": {
             "current": {}, 
             "gear": {
-                "all": [], 
-                "ctp": [], 
+                "all": [
+                    "GB", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "ctp": [
+                    "DES", 
+                    "AUT"
+                ], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -1884,7 +2229,10 @@
                     "CRD", 
                     "DP"
                 ], 
-                "ctp": [], 
+                "ctp": [
+                    "PAT", 
+                    "REF"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1918,7 +2266,11 @@
                     "IP"
                 ], 
                 "ctp": [], 
-                "pve": [], 
+                "pve": [
+                    "GB", 
+                    "FD", 
+                    "IP"
+                ], 
                 "pvp": []
             }, 
             "rank": "B", 
@@ -1928,7 +2280,9 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "TRA"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1939,7 +2293,9 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "REF"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1954,7 +2310,9 @@
                     "FD", 
                     "DP"
                 ], 
-                "ctp": [], 
+                "ctp": [
+                    "PAT"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1969,7 +2327,10 @@
                     "GB", 
                     "DP"
                 ], 
-                "ctp": [], 
+                "ctp": [
+                    "ENR", 
+                    "REF"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -1984,8 +2345,15 @@
                     "HP", 
                     "IP"
                 ], 
-                "ctp": [], 
-                "pve": [], 
+                "ctp": [
+                    "PAT", 
+                    "REF"
+                ], 
+                "pve": [
+                    "HP", 
+                    "DO", 
+                    "DP"
+                ], 
                 "pvp": []
             }, 
             "rank": "A", 
@@ -1995,8 +2363,15 @@
             "current": {}, 
             "gear": {
                 "all": [], 
+                "ctp": [
+                    "REG"
+                ], 
                 "pve": [], 
-                "pvp": []
+                "pvp": [
+                    "GB", 
+                    "HP", 
+                    "IP"
+                ]
             }, 
             "rank": "A", 
             "tier": 1
@@ -2005,10 +2380,11 @@
             "current": {}, 
             "gear": {
                 "all": [], 
+                "ctp": [], 
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "?", 
+            "rank": "S", 
             "tier": 1
         }, 
         "Sandman": {
@@ -2019,7 +2395,9 @@
                     "CRD", 
                     "DP"
                 ], 
-                "ctp": [], 
+                "ctp": [
+                    "REF"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -2030,7 +2408,10 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "ENR", 
+                    "AUT"
+                ], 
                 "pve": [
                     "GB", 
                     "FD", 
@@ -2075,7 +2456,10 @@
                     "HP", 
                     "IP"
                 ], 
-                "ctp": [], 
+                "ctp": [
+                    "DES", 
+                    "AUT"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -2118,8 +2502,15 @@
                     "CRD", 
                     "DP"
                 ], 
-                "ctp": [], 
-                "pve": [], 
+                "ctp": [
+                    "ENR", 
+                    "REF"
+                ], 
+                "pve": [
+                    "HP", 
+                    "CRD", 
+                    "DP"
+                ], 
                 "pvp": []
             }, 
             "rank": "A", 
@@ -2129,7 +2520,10 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "ENR", 
+                    "REF"
+                ], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -2152,7 +2546,9 @@
                     "CRD", 
                     "DP"
                 ], 
-                "ctp": [], 
+                "ctp": [
+                    "AUT"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -2167,9 +2563,15 @@
                     "CRR", 
                     "IP"
                 ], 
-                "ctp": [], 
+                "ctp": [
+                    "PAT"
+                ], 
                 "pve": [], 
-                "pvp": []
+                "pvp": [
+                    "GB", 
+                    "HP", 
+                    "IP"
+                ]
             }, 
             "rank": "B", 
             "tier": 1
@@ -2189,9 +2591,15 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "PAT"
+                ], 
                 "pve": [], 
-                "pvp": []
+                "pvp": [
+                    "DO", 
+                    "HP", 
+                    "IP"
+                ]
             }, 
             "rank": "B", 
             "tier": 1
@@ -2200,7 +2608,10 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "TRA", 
+                    "REF"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -2210,8 +2621,15 @@
         "Skurge": {
             "current": {}, 
             "gear": {
-                "all": [], 
-                "ctp": [], 
+                "all": [
+                    "CRR", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "ctp": [
+                    "TRA", 
+                    "REF"
+                ], 
                 "pve": [
                     "GB", 
                     "CRD", 
@@ -2241,7 +2659,9 @@
                     "CRD", 
                     "IP"
                 ], 
-                "ctp": [], 
+                "ctp": [
+                    "PAT"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -2273,8 +2693,15 @@
         "Spider-Man 2099": {
             "current": {}, 
             "gear": {
-                "all": [], 
-                "ctp": [], 
+                "all": [
+                    "DO", 
+                    "HP", 
+                    "IP"
+                ], 
+                "ctp": [
+                    "DES", 
+                    "AUT"
+                ], 
                 "pve": [
                     "CRD", 
                     "GB", 
@@ -2293,7 +2720,10 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "PAT", 
+                    "REF"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -2304,7 +2734,10 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "DES", 
+                    "PAT"
+                ], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -2364,7 +2797,9 @@
                     "DO", 
                     "DP"
                 ], 
-                "ctp": [], 
+                "ctp": [
+                    "TRA"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -2374,7 +2809,11 @@
         "Thanos": {
             "current": {}, 
             "gear": {
-                "all": [], 
+                "all": [
+                    "GB", 
+                    "HP", 
+                    "DP"
+                ], 
                 "ctp": [
                     "ENR", 
                     "AUT"
@@ -2434,7 +2873,9 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "REF"
+                ], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -2464,8 +2905,15 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
-                "pve": [], 
+                "ctp": [
+                    "TRA", 
+                    "AUT"
+                ], 
+                "pve": [
+                    "GB", 
+                    "HP", 
+                    "IP"
+                ], 
                 "pvp": []
             }, 
             "rank": "C", 
@@ -2490,7 +2938,9 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "TRA"
+                ], 
                 "pve": [
                     "CRD", 
                     "GB", 
@@ -2513,7 +2963,9 @@
                     "HP", 
                     "IP"
                 ], 
-                "ctp": [], 
+                "ctp": [
+                    "AUT"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -2546,8 +2998,15 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
-                "pve": [], 
+                "ctp": [
+                    "DES", 
+                    "AUT"
+                ], 
+                "pve": [
+                    "CRR", 
+                    "CRD", 
+                    "DP"
+                ], 
                 "pvp": []
             }, 
             "rank": "B", 
@@ -2557,7 +3016,9 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "TRA"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -2567,8 +3028,15 @@
         "Vulture": {
             "current": {}, 
             "gear": {
-                "all": [], 
-                "ctp": [], 
+                "all": [
+                    "CRR", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "ctp": [
+                    "TRA", 
+                    "PAT"
+                ], 
                 "pve": [
                     "ID", 
                     "CRD", 
@@ -2586,8 +3054,15 @@
         "War Machine": {
             "current": {}, 
             "gear": {
-                "all": [], 
-                "ctp": [], 
+                "all": [
+                    "GB", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "ctp": [
+                    "DES", 
+                    "AUS"
+                ], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -2605,7 +3080,7 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "?", 
+            "rank": "S", 
             "tier": 1
         }, 
         "Warwolf": {
@@ -2628,7 +3103,8 @@
             "gear": {
                 "all": [], 
                 "ctp": [
-                    "AUT"
+                    "AUT", 
+                    "DES"
                 ], 
                 "pve": [], 
                 "pvp": [
@@ -2676,7 +3152,10 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "DES", 
+                    "AUT"
+                ], 
                 "pve": [
                     "CRD", 
                     "CRD", 
@@ -2695,7 +3174,9 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "AUT"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -2706,7 +3187,9 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
+                "ctp": [
+                    "DES"
+                ], 
                 "pve": [], 
                 "pvp": []
             }, 
@@ -2716,7 +3199,11 @@
         "Winter Soldier": {
             "current": {}, 
             "gear": {
-                "all": [], 
+                "all": [
+                    "CRD", 
+                    "HP", 
+                    "DP"
+                ], 
                 "ctp": [
                     "ENR", 
                     "AUT"
@@ -2738,7 +3225,11 @@
         "Wolverine": {
             "current": {}, 
             "gear": {
-                "all": [], 
+                "all": [
+                    "CRD", 
+                    "HP", 
+                    "IP"
+                ], 
                 "ctp": [
                     "AUT", 
                     "REF"
@@ -2798,8 +3289,14 @@
                     "CRD", 
                     "DP"
                 ], 
-                "ctp": [], 
-                "pve": [], 
+                "ctp": [
+                    "PAT"
+                ], 
+                "pve": [
+                    "CRD", 
+                    "DO", 
+                    "IP"
+                ], 
                 "pvp": []
             }, 
             "rank": "A", 
@@ -2809,8 +3306,15 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
-                "pve": [], 
+                "ctp": [
+                    "DES", 
+                    "AUT"
+                ], 
+                "pve": [
+                    "GB", 
+                    "CRD", 
+                    "DP"
+                ], 
                 "pvp": []
             }, 
             "rank": "B", 
