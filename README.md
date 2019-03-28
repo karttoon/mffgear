@@ -155,3 +155,6 @@ When I run the same search again, Invisible Woman will now be listed under "Alre
 ```
 
 That's about it. I've included my personal DB file (kart_mff.db) if you want to use it as a test.
+
+--
+Additional gears added from [Cynicalex](https://www.reddit.com/user/cynicalex) [Cynicalex Master Guides](https://docs.google.com/spreadsheets/d/1H0Hcl9oVZV9gA266xkJAqPv5bD1qwqhC5NeVbLj_-FE/htmlview?sle=true#)
