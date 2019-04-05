@@ -3,8 +3,8 @@ import json, sys, argparse, requests, os, collections
 
 __author__  = "Jeff White [karttoon] @noottrak"
 __email__   = "karttoon@gmail.com"
-__version__ = "1.0.1"
-__date__    = "23MAR2019"
+__version__ = "1.0.2"
+__date__    = "04APR2019"
 
 requests.packages.urllib3.disable_warnings()
 
@@ -51,7 +51,12 @@ def findGear(outResult, data, userResponse):
                     tempGear.remove(itemName)
 
             if len(userResponse) == 2:
-                if len(tempGear) == 1 and lenCheck != 1:
+
+                # Gear Source is 2 gears instead of normal 3 but only 1 match
+                if len(tempGear) == 1 and lenCheck == 2:
+                    pass
+                # Source is 2 or 3 gears with at least 2 match
+                elif len(tempGear) == 1 and lenCheck != 1:
                     outResult[mffChar][gearSet] = charGear[gearSet]
             else:
                 if len(tempGear) == 0 and lenCheck != 0:
@@ -312,13 +317,29 @@ def saveFile(args, data):
     return
 
 
+def validateData(data):
+
+    for mffchar in data["chars"]:
+        if "current" not in data["chars"][mffchar]:
+            data["chars"][mffchar]["current"] = {}
+        if "rank" not in data["chars"][mffchar]:
+            data["chars"][mffchar]["rank"] = "?"
+        if "tier" not in data["chars"][mffchar]:
+            data["chars"][mffchar]["tier"] = 0
+        if "gear" not in data["chars"][mffchar]:
+            data["chars"][mffchar]["gear"] = {}
+        else:
+            for fieldCheck in ["all", "ctp", "pve", "pvp"]:
+                if fieldCheck not in data["chars"][mffchar]["gear"]:
+                    data["chars"][mffchar]["gear"][fieldCheck] = []
+    return data
+
 def main():
 
     parser = argparse.ArgumentParser(description="Script for helping find Marvel Future Fight characters to equip gear on.")
     parser.add_argument("-f", "--file", help="The file to use if not \"mff.db\".", metavar="<value>", default="mff.db")
     parser.add_argument("-m", "--merge", help="Download the latest character DB and merge it with file specified using -f flag.", action="store_true")
     parser.add_argument("-v", "--verbose", help="Prompt for gear updates when listing.", action="store_true")
-    parser.add_argument("-u", "--update", help="Update your character DB with changes.", action="store_true")
     parser.add_argument("-d", "--defs", help="Print gear abbreviations", action="store_true")
     parser.add_argument("-i", "--init", help="Setup your characters for the first time.", action="store_true")
     args, unkargs = parser.parse_known_args()
@@ -328,6 +349,8 @@ def main():
     else:
         data = getMaster()
         saveFile(args, data)
+
+    data = validateData(data)
 
     try:
 

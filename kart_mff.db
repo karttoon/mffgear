@@ -7,7 +7,10 @@
                 "ctp": [
                     "REF"
                 ], 
-                "pve": [], 
+                "pve": [
+                    "WEB", 
+                    "IP"
+                ], 
                 "pvp": []
             }, 
             "rank": "D", 
@@ -73,7 +76,10 @@
                     "DP"
                 ], 
                 "ctp": [], 
-                "pve": [], 
+                "pve": [
+                    "DO", 
+                    "IP"
+                ], 
                 "pvp": []
             }, 
             "rank": "B", 
@@ -258,7 +264,10 @@
                 "ctp": [
                     "PAT"
                 ], 
-                "pve": [], 
+                "pve": [
+                    "DO", 
+                    "DP"
+                ], 
                 "pvp": []
             }, 
             "rank": "B", 
@@ -299,7 +308,10 @@
                     "DES", 
                     "AUT"
                 ], 
-                "pve": [], 
+                "pve": [
+                    "GB", 
+                    "DP"
+                ], 
                 "pvp": []
             }, 
             "rank": "B", 
@@ -310,7 +322,10 @@
             "gear": {
                 "all": [], 
                 "ctp": [], 
-                "pve": [], 
+                "pve": [
+                    "WEB", 
+                    "IP"
+                ], 
                 "pvp": []
             }, 
             "rank": "C", 
@@ -341,13 +356,13 @@
         "Black Widow": {
             "current": {
                 "slot1": {
-                    "DEF": 14
+                    "DO": 18
                 }, 
                 "slot2": {
-                    "DP": 210
+                    "LD": 16
                 }, 
                 "slot3": {
-                    "LD": 31
+                    "DP": 100
                 }
             }, 
             "gear": {
@@ -405,7 +420,10 @@
             "gear": {
                 "all": [], 
                 "ctp": [], 
-                "pve": [], 
+                "pve": [
+                    "STU", 
+                    "IP"
+                ], 
                 "pvp": []
             }, 
             "rank": "D", 
@@ -494,7 +512,17 @@
             "tier": 1
         }, 
         "Clea": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "HP": 12
+                }, 
+                "slot2": {
+                    "DO": 17
+                }, 
+                "slot3": {
+                    "IP": 4
+                }
+            }, 
             "gear": {
                 "all": [
                     "DO", 
@@ -646,7 +674,10 @@
             "gear": {
                 "all": [], 
                 "ctp": [], 
-                "pve": [], 
+                "pve": [
+                    "DO", 
+                    "IP"
+                ], 
                 "pvp": []
             }, 
             "rank": "C", 
@@ -744,7 +775,10 @@
                 "ctp": [
                     "AUT"
                 ], 
-                "pve": [], 
+                "pve": [
+                    "WEB", 
+                    "IP"
+                ], 
                 "pvp": []
             }, 
             "rank": "C", 
@@ -782,7 +816,17 @@
             "tier": 2
         }, 
         "Domino": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "CRD": 23
+                }, 
+                "slot2": {
+                    "DO": 10
+                }, 
+                "slot3": {
+                    "IP": 2
+                }
+            }, 
             "gear": {
                 "all": [
                     "GB", 
@@ -878,7 +922,10 @@
                 "ctp": [
                     "PAT"
                 ], 
-                "pve": [], 
+                "pve": [
+                    "DO", 
+                    "IP"
+                ], 
                 "pvp": []
             }, 
             "rank": "B", 
@@ -934,7 +981,17 @@
             "tier": 2
         }, 
         "Enchantress": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "ID": 28
+                }, 
+                "slot2": {
+                    "DO": 20
+                }, 
+                "slot3": {
+                    "IP": 2
+                }
+            }, 
             "gear": {
                 "all": [
                     "ID", 
@@ -977,7 +1034,10 @@
             "gear": {
                 "all": [], 
                 "ctp": [], 
-                "pve": [], 
+                "pve": [
+                    "DO", 
+                    "IP"
+                ], 
                 "pvp": []
             }, 
             "rank": "D", 
@@ -1096,7 +1156,10 @@
                     "DP"
                 ], 
                 "ctp": [], 
-                "pve": [], 
+                "pve": [
+                    "FD", 
+                    "IP"
+                ], 
                 "pvp": []
             }, 
             "rank": "B", 
@@ -1142,7 +1205,10 @@
             "gear": {
                 "all": [], 
                 "ctp": [], 
-                "pve": [], 
+                "pve": [
+                    "WEB", 
+                    "IP"
+                ], 
                 "pvp": []
             }, 
             "rank": "C", 
@@ -1222,7 +1288,10 @@
                     "PAT", 
                     "REF"
                 ], 
-                "pve": [], 
+                "pve": [
+                    "CRD", 
+                    "DP"
+                ], 
                 "pvp": []
             }, 
             "rank": "B", 
@@ -1274,7 +1343,10 @@
                 "ctp": [
                     "TRA"
                 ], 
-                "pve": [], 
+                "pve": [
+                    "FD", 
+                    "DP"
+                ], 
                 "pvp": []
             }, 
             "rank": "A", 
@@ -1285,7 +1357,10 @@
             "gear": {
                 "all": [], 
                 "ctp": [], 
-                "pve": [], 
+                "pve": [
+                    "WEB", 
+                    "IP"
+                ], 
                 "pvp": []
             }, 
             "rank": "D", 
@@ -1396,7 +1471,17 @@
             "tier": 1
         }, 
         "Inferno": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "GB": 0
+                }, 
+                "slot2": {
+                    "FD": 23
+                }, 
+                "slot3": {
+                    "DP": 230
+                }
+            }, 
             "gear": {
                 "all": [
                     "GB", 
@@ -1410,7 +1495,7 @@
                 "pvp": []
             }, 
             "rank": "A", 
-            "tier": 1
+            "tier": 2
         }, 
         "Invisible Woman": {
             "current": {
@@ -1536,7 +1621,10 @@
             "gear": {
                 "all": [], 
                 "ctp": [], 
-                "pve": [], 
+                "pve": [
+                    "LD", 
+                    "IP"
+                ], 
                 "pvp": []
             }, 
             "rank": "C", 
@@ -1594,9 +1682,19 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
-                "pve": [], 
-                "pvp": []
+                "ctp": [
+                    "RAG"
+                ], 
+                "pve": [
+                    "CRD", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "HP", 
+                    "IP"
+                ]
             }, 
             "rank": "S", 
             "tier": 1
@@ -1613,7 +1711,10 @@
                     "DES", 
                     "AUT"
                 ], 
-                "pve": [], 
+                "pve": [
+                    "CRD", 
+                    "IP"
+                ], 
                 "pvp": []
             }, 
             "rank": "C", 
@@ -1703,7 +1804,11 @@
         "Korath": {
             "current": {}, 
             "gear": {
-                "all": [], 
+                "all": [
+                    "ID", 
+                    "CRD", 
+                    "DP"
+                ], 
                 "ctp": [
                     "ENR"
                 ], 
@@ -1753,7 +1858,10 @@
             "gear": {
                 "all": [], 
                 "ctp": [], 
-                "pve": [], 
+                "pve": [
+                    "STU", 
+                    "IP"
+                ], 
                 "pvp": []
             }, 
             "rank": "C", 
@@ -1779,7 +1887,10 @@
         "Lizard": {
             "current": {}, 
             "gear": {
-                "all": [], 
+                "all": [
+                    "PD", 
+                    "IP"
+                ], 
                 "ctp": [
                     "DES"
                 ], 
@@ -1950,7 +2061,10 @@
                 "ctp": [
                     "TRA"
                 ], 
-                "pve": [], 
+                "pve": [
+                    "HP", 
+                    "IP"
+                ], 
                 "pvp": []
             }, 
             "rank": "C", 
@@ -2023,7 +2137,11 @@
                 "ctp": [
                     "ENR"
                 ], 
-                "pve": [], 
+                "pve": [
+                    "CRD", 
+                    "CRD", 
+                    "DP"
+                ], 
                 "pvp": []
             }, 
             "rank": "S", 
@@ -2062,7 +2180,17 @@
             "tier": 2
         }, 
         "Misty Knight": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "GB": 0
+                }, 
+                "slot2": {
+                    "CD": 39
+                }, 
+                "slot3": {
+                    "DP": 140
+                }
+            }, 
             "gear": {
                 "all": [], 
                 "ctp": [], 
@@ -2185,7 +2313,17 @@
             "tier": 1
         }, 
         "Mysterio": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "CRD": 20
+                }, 
+                "slot2": {
+                    "MD": 18
+                }, 
+                "slot3": {
+                    "DP": 210
+                }
+            }, 
             "gear": {
                 "all": [
                     "MD", 
@@ -2220,7 +2358,17 @@
             "tier": 1
         }, 
         "Nebula": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "ID": 24
+                }, 
+                "slot2": {
+                    "LD": 7
+                }, 
+                "slot3": {
+                    "DP": 110
+                }
+            }, 
             "gear": {
                 "all": [
                     "GB", 
@@ -2230,7 +2378,10 @@
                 "ctp": [
                     "PAT"
                 ], 
-                "pve": [], 
+                "pve": [
+                    "LD", 
+                    "DP"
+                ], 
                 "pvp": []
             }, 
             "rank": "C", 
@@ -2243,8 +2394,16 @@
                 "ctp": [
                     "ENR"
                 ], 
-                "pve": [], 
-                "pvp": []
+                "pve": [
+                    "CRD", 
+                    "CRD", 
+                    "DP"
+                ], 
+                "pvp": [
+                    "GB", 
+                    "CRD", 
+                    "IP"
+                ]
             }, 
             "rank": "S", 
             "tier": 1
@@ -2467,14 +2626,27 @@
                 "ctp": [
                     "REF"
                 ], 
-                "pve": [], 
+                "pve": [
+                    "CRD", 
+                    "DP"
+                ], 
                 "pvp": []
             }, 
             "rank": "B", 
             "tier": 1
         }, 
         "Robbie Reyes": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "FD": 17
+                }, 
+                "slot2": {
+                    "FD": 26
+                }, 
+                "slot3": {
+                    "DP": 110
+                }
+            }, 
             "gear": {
                 "all": [
                     "FD", 
@@ -2537,7 +2709,11 @@
                 "ctp": [
                     "REG"
                 ], 
-                "pve": [], 
+                "pve": [
+                    "CRD", 
+                    "CRD", 
+                    "DP"
+                ], 
                 "pvp": [
                     "GB", 
                     "HP", 
@@ -2551,8 +2727,14 @@
             "current": {}, 
             "gear": {
                 "all": [], 
-                "ctp": [], 
-                "pve": [], 
+                "ctp": [
+                    "RAG"
+                ], 
+                "pve": [
+                    "CRD", 
+                    "GB", 
+                    "DP"
+                ], 
                 "pvp": []
             }, 
             "rank": "S", 
@@ -2652,7 +2834,10 @@
             "gear": {
                 "all": [], 
                 "ctp": [], 
-                "pve": [], 
+                "pve": [
+                    "DO", 
+                    "IP"
+                ], 
                 "pvp": []
             }, 
             "rank": "D", 
@@ -2760,7 +2945,10 @@
                 "ctp": [
                     "AUT"
                 ], 
-                "pve": [], 
+                "pve": [
+                    "DO", 
+                    "IP"
+                ], 
                 "pvp": []
             }, 
             "rank": "B", 
@@ -2823,7 +3011,10 @@
                     "TRA", 
                     "REF"
                 ], 
-                "pve": [], 
+                "pve": [
+                    "HP", 
+                    "IP"
+                ], 
                 "pvp": []
             }, 
             "rank": "C", 
@@ -2856,7 +3047,10 @@
             "gear": {
                 "all": [], 
                 "ctp": [], 
-                "pve": [], 
+                "pve": [
+                    "ID", 
+                    "IP"
+                ], 
                 "pvp": []
             }, 
             "rank": "B", 
@@ -2939,7 +3133,10 @@
                     "PAT", 
                     "REF"
                 ], 
-                "pve": [], 
+                "pve": [
+                    "DO", 
+                    "IP"
+                ], 
                 "pvp": []
             }, 
             "rank": "B", 
@@ -3005,7 +3202,17 @@
             "tier": 2
         }, 
         "Supergiant": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "DO": 16
+                }, 
+                "slot2": {
+                    "MD": 20
+                }, 
+                "slot3": {
+                    "DP": 210
+                }
+            }, 
             "gear": {
                 "all": [
                     "MD", 
@@ -3078,7 +3285,8 @@
                 "all": [], 
                 "ctp": [
                     "ENR", 
-                    "AUT"
+                    "AUT", 
+                    "RAG"
                 ], 
                 "pve": [
                     "LD", 
@@ -3118,11 +3326,24 @@
             "tier": 1
         }, 
         "Ulik": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "CRR": 13
+                }, 
+                "slot2": {
+                    "CRR": 13
+                }, 
+                "slot3": {
+                    "IP": 2
+                }
+            }, 
             "gear": {
                 "all": [], 
                 "ctp": [], 
-                "pve": [], 
+                "pve": [
+                    "CRR", 
+                    "IP"
+                ], 
                 "pvp": []
             }, 
             "rank": "C", 
@@ -3135,7 +3356,10 @@
                 }
             }, 
             "gear": {
-                "all": [], 
+                "all": [
+                    "STU", 
+                    "IP"
+                ], 
                 "ctp": [
                     "TRA", 
                     "AUT"
@@ -3260,14 +3484,27 @@
                 "ctp": [
                     "TRA"
                 ], 
-                "pve": [], 
+                "pve": [
+                    "WEB", 
+                    "IP"
+                ], 
                 "pvp": []
             }, 
             "rank": "C", 
             "tier": 1
         }, 
         "Vulture": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "CRD": 22
+                }, 
+                "slot2": {
+                    "ID": 19
+                }, 
+                "slot3": {
+                    "DP": 110
+                }
+            }, 
             "gear": {
                 "all": [
                     "CRR", 
@@ -3394,7 +3631,10 @@
             "gear": {
                 "all": [], 
                 "ctp": [], 
-                "pve": [], 
+                "pve": [
+                    "LD", 
+                    "IP"
+                ], 
                 "pvp": []
             }, 
             "rank": "D", 
@@ -3429,7 +3669,10 @@
                 "ctp": [
                     "AUT"
                 ], 
-                "pve": [], 
+                "pve": [
+                    "WEB", 
+                    "IP"
+                ], 
                 "pvp": []
             }, 
             "rank": "B", 
@@ -3442,7 +3685,10 @@
                 "ctp": [
                     "DES"
                 ], 
-                "pve": [], 
+                "pve": [
+                    "CRD", 
+                    "IP"
+                ], 
                 "pvp": []
             }, 
             "rank": "B", 
@@ -3509,7 +3755,10 @@
             "gear": {
                 "all": [], 
                 "ctp": [], 
-                "pve": [], 
+                "pve": [
+                    "HP", 
+                    "IP"
+                ], 
                 "pvp": []
             }, 
             "rank": "C", 
@@ -3605,7 +3854,9 @@
             "LD": "Lightning Damage", 
             "MD": "Mind Damage", 
             "PD": "Poison Damage", 
-            "RR": "Recovery Rate"
+            "RR": "Recovery Rate", 
+            "STU": "Stun Resist", 
+            "WEB": "Web Resist"
         }
     }
 }

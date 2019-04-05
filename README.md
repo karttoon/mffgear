@@ -1,6 +1,14 @@
 # mffgear
 MFFGear is a Marvel Future Fight (MFF) script that helps in identifying which gear might be useful across your roster.
 
+
+Current Gear Data Sources as of mffgear v1.0.2:
+
+* [erceyazici](https://www.reddit.com/user/erceyazici) [Tier List v4.9.0](https://www.reddit.com/r/future_fight/comments/b6axdb/tier_list_v490/)
+* [fmv13](https://www.reddit.com/user/fmv13) [Character Building Power Book V.4.9](https://www.reddit.com/r/future_fight/comments/b9i3gf/character_building_power_book_v49/)
+* [Cynicalex](https://www.reddit.com/user/cynicalex) [Cynicalex Master Guides](https://docs.google.com/spreadsheets/d/1H0Hcl9oVZV9gA266xkJAqPv5bD1qwqhC5NeVbLj_-FE/htmlview?sle=true#)
+
+
 After a year+ into MFF I started to notice that I was storing a lot of custom gears using up valuable inventory space. I kept telling myself "I'll get back to these later and figure out who to put them on" but I never would and it became a huge PITA managing gear. I created this script to help solve that problem for myself but figured I'd make it available to anyone else if they find themselves in the same boat as me.
 
 Effectively, you pass it a comma delimited set of gear abbreviations and it'll tell you if a characters PVP/PVE optimal gear aligns, sorted by tier, rank, and whether they already have gear on. It has a handful of flags I've added to make usage slightly easier.
@@ -155,6 +163,3 @@ When I run the same search again, Invisible Woman will now be listed under "Alre
 ```
 
 That's about it. I've included my personal DB file (kart_mff.db) if you want to use it as a test.
-
---
-Additional gears added from [Cynicalex](https://www.reddit.com/user/cynicalex) [Cynicalex Master Guides](https://docs.google.com/spreadsheets/d/1H0Hcl9oVZV9gA266xkJAqPv5bD1qwqhC5NeVbLj_-FE/htmlview?sle=true#)
