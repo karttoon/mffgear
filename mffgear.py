@@ -1,10 +1,10 @@
 #!/usr/bin/env python
-import json, sys, argparse, requests, os, collections
+import json, sys, argparse, requests, os, operator
 
 __author__  = "Jeff White [karttoon] @noottrak"
 __email__   = "karttoon@gmail.com"
-__version__ = "1.0.2"
-__date__    = "04APR2019"
+__version__ = "1.0.3"
+__date__    = "20APR2019"
 
 requests.packages.urllib3.disable_warnings()
 
@@ -334,6 +334,67 @@ def validateData(data):
                     data["chars"][mffchar]["gear"][fieldCheck] = []
     return data
 
+
+def statGather(args, data):
+
+    # Determine Top 10 most common *needed* gear
+    needGear = {}
+
+    for mffChar in data["chars"]:
+        for gear in data["chars"][mffChar]["gear"]:
+            if data["chars"][mffChar]["current"] == {} and gear != "ctp":
+
+                gearCheck = [str(x) for x in data["chars"][mffChar]["gear"][gear]]
+                gearCheck.sort()
+
+                gearString = []
+                for entry in gearCheck:
+                    #gearString.append(data["defs"]["gear"][entry]) # Full name, a little harder to read
+                    gearString.append(entry)
+                gearString = ", ".join(gearString)
+
+                if gearString not in needGear and gearString != "":
+                    needGear[gearString] = 1
+                elif gearString in needGear and gearString != "":
+                    needGear[gearString] += 1
+
+    needGear = sorted(needGear.items(), key=operator.itemgetter(1))[-10:-1][::-1]
+
+    print("\n[+] Top 10 Needed Gear Combos")
+    for entry in needGear:
+        print("\t%-3s | %s" % (entry[1], entry[0]))
+
+    # Determine Top 10 most common g
+    commonGear = {}
+
+    for mffChar in data["chars"]:
+        for gear in data["chars"][mffChar]["gear"]:
+            if gear != "ctp":
+
+                gearCheck = [str(x) for x in data["chars"][mffChar]["gear"][gear]]
+                gearCheck.sort()
+
+                gearString = []
+                for entry in gearCheck:
+                    #gearString.append(data["defs"]["gear"][entry]) # Full name, a little harder to read
+                    gearString.append(entry)
+                gearString = ", ".join(gearString)
+
+                if gearString not in commonGear and gearCheck != "":
+                    commonGear[gearString] = 1
+                elif gearString in commonGear and gearCheck != "":
+                    commonGear[gearString] += 1
+
+    commonGear = sorted(commonGear.items(), key=operator.itemgetter(1))[-10:-1][::-1]
+
+    print("\n[+] Top 10 Most Common Gear Combos")
+    for entry in commonGear:
+        print("\t%-3s | %s" % (entry[1], entry[0]))
+
+    print("")
+
+    return
+
 def main():
 
     parser = argparse.ArgumentParser(description="Script for helping find Marvel Future Fight characters to equip gear on.")
@@ -342,6 +403,7 @@ def main():
     parser.add_argument("-v", "--verbose", help="Prompt for gear updates when listing.", action="store_true")
     parser.add_argument("-d", "--defs", help="Print gear abbreviations", action="store_true")
     parser.add_argument("-i", "--init", help="Setup your characters for the first time.", action="store_true")
+    parser.add_argument("-s", "--stats", help="Display gear stats to get a high-level overview of what to look for.", action="store_true")
     args, unkargs = parser.parse_known_args()
 
     if os.path.isfile(args.file):
@@ -377,6 +439,9 @@ def main():
         elif args.merge:
             data = mergeDB(data)
             saveFile(args, data)
+
+        elif args.stats:
+            statGather(args, data)
 
         else:
             outResult = {}
