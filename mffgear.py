@@ -23,7 +23,7 @@ def getMaster():
 
     print("\n[!] Downloading latest DB file from %s" % (url))
 
-    data = json.loads(requests.get(url, verify=False).content)
+    #data = json.loads(requests.get(url, verify=False).content)
 
     # Local merge
     data = json.load(open("mff_master.db"))
