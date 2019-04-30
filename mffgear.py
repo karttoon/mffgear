@@ -26,7 +26,7 @@ def getMaster():
     data = json.loads(requests.get(url, verify=False).content)
 
     # Local merge
-    #data = json.load(open("mff_master.db"))
+    data = json.load(open("mff_master.db"))
 
     return data
 

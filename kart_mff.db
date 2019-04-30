@@ -42,11 +42,21 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "C", 
+            "rank": "D", 
             "tier": 1
         }, 
         "Agent Venom": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "CRD": 19
+                }, 
+                "slot2": {
+                    "CRD": 31
+                }, 
+                "slot3": {
+                    "DP": 70
+                }
+            }, 
             "gear": {
                 "all": [], 
                 "ctp": [
@@ -64,7 +74,7 @@
                     "IP"
                 ]
             }, 
-            "rank": "S", 
+            "rank": "A", 
             "tier": 1
         }, 
         "Amadeus Cho": {
@@ -92,7 +102,7 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "B", 
+            "rank": "C", 
             "tier": 1
         }, 
         "America Chavez": {
@@ -162,7 +172,17 @@
             "tier": 2
         }, 
         "Angela": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "FD": 33
+                }, 
+                "slot2": {
+                    "DO": 19
+                }, 
+                "slot3": {
+                    "DP": 110
+                }
+            }, 
             "gear": {
                 "all": [
                     "DO", 
@@ -175,7 +195,7 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "C", 
+            "rank": "D", 
             "tier": 1
         }, 
         "Ant-Man": {
@@ -203,11 +223,21 @@
                     "IP"
                 ]
             }, 
-            "rank": "S", 
+            "rank": "A", 
             "tier": 2
         }, 
         "Anti-Man": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "CRD": 20
+                }, 
+                "slot2": {
+                    "CRR": 15
+                }, 
+                "slot3": {
+                    "DP": 210
+                }
+            }, 
             "gear": {
                 "all": [
                     "CRR", 
@@ -224,11 +254,21 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "S", 
+            "rank": "A", 
             "tier": 1
         }, 
         "Apocalypse": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "CRD": 36
+                }, 
+                "slot2": {
+                    "CRR": 27
+                }, 
+                "slot3": {
+                    "DP": 260
+                }
+            }, 
             "gear": {
                 "all": [
                     "CRR", 
@@ -264,11 +304,21 @@
                     "IP"
                 ]
             }, 
-            "rank": "A", 
+            "rank": "B", 
             "tier": 2
         }, 
         "Baron Mordo": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "ID": 29
+                }, 
+                "slot2": {
+                    "DO": 15
+                }, 
+                "slot3": {
+                    "DP": 100
+                }
+            }, 
             "gear": {
                 "all": [], 
                 "ctp": [
@@ -286,7 +336,7 @@
         "Beast": {
             "current": {
                 "slot1": {
-                    "CRR": 22
+                    "REF": 0
                 }, 
                 "slot2": {
                     "HP": 14
@@ -348,7 +398,7 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "C", 
+            "rank": "D", 
             "tier": 1
         }, 
         "Black Panther": {
@@ -503,7 +553,17 @@
             "tier": 2
         }, 
         "Captain Marvel": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "DEF": 9
+                }, 
+                "slot2": {
+                    "CRD": 28
+                }, 
+                "slot3": {
+                    "IP": 3
+                }
+            }, 
             "gear": {
                 "all": [
                     "CRD", 
@@ -544,7 +604,7 @@
         "Clea": {
             "current": {
                 "slot1": {
-                    "HP": 12
+                    "TRA": 0
                 }, 
                 "slot2": {
                     "DO": 17
@@ -565,7 +625,7 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "B", 
+            "rank": "C", 
             "tier": 2
         }, 
         "Colossus": {
@@ -678,7 +738,7 @@
                     "IP"
                 ]
             }, 
-            "rank": "S", 
+            "rank": "A", 
             "tier": 2
         }, 
         "Cyclops": {
@@ -710,7 +770,7 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "C", 
+            "rank": "D", 
             "tier": 1
         }, 
         "Daredevil": {
@@ -727,7 +787,17 @@
             "tier": 2
         }, 
         "Deadpool": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "CRD": 15
+                }, 
+                "slot2": {
+                    "DP": 110
+                }, 
+                "slot3": {
+                    "GB": 0
+                }
+            }, 
             "gear": {
                 "all": [
                     "GB", 
@@ -769,7 +839,7 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "B", 
+            "rank": "D", 
             "tier": 1
         }, 
         "Doctor Doom": {
@@ -842,7 +912,7 @@
                     "IP"
                 ]
             }, 
-            "rank": "S", 
+            "rank": "A", 
             "tier": 2
         }, 
         "Domino": {
@@ -946,7 +1016,17 @@
             "tier": 2
         }, 
         "Elektra": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "GB": 0
+                }, 
+                "slot2": {
+                    "DO": 26
+                }, 
+                "slot3": {
+                    "IP": 3
+                }
+            }, 
             "gear": {
                 "all": [], 
                 "ctp": [
@@ -1035,11 +1115,21 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "A", 
+            "rank": "B", 
             "tier": 1
         }, 
         "Falcon": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "CRD": 13
+                }, 
+                "slot2": {
+                    "DO": 18
+                }, 
+                "slot3": {
+                    "DP": 65
+                }
+            }, 
             "gear": {
                 "all": [
                     "GB", 
@@ -1148,7 +1238,7 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "A", 
+            "rank": "B", 
             "tier": 1
         }, 
         "Ghost Panther": {
@@ -1174,7 +1264,7 @@
                     "IP"
                 ]
             }, 
-            "rank": "S", 
+            "rank": "A", 
             "tier": 1
         }, 
         "Ghost Rider": {
@@ -1192,7 +1282,7 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "B", 
+            "rank": "C", 
             "tier": 2
         }, 
         "Giant-Man": {
@@ -1245,7 +1335,17 @@
             "tier": 1
         }, 
         "Green Goblin": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "PD": 29
+                }, 
+                "slot2": {
+                    "ID": 11
+                }, 
+                "slot3": {
+                    "DP": 110
+                }
+            }, 
             "gear": {
                 "all": [
                     "PD", 
@@ -1307,11 +1407,21 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "D", 
-            "tier": 1
+            "rank": "S", 
+            "tier": 2
         }, 
         "Heimdall": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "CRD": 17
+                }, 
+                "slot2": {
+                    "ID": 24
+                }, 
+                "slot3": {
+                    "DP": 220
+                }
+            }, 
             "gear": {
                 "all": [], 
                 "ctp": [
@@ -1367,7 +1477,11 @@
             "tier": 1
         }, 
         "Hellstorm": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "TRA": 0
+                }
+            }, 
             "gear": {
                 "all": [], 
                 "ctp": [
@@ -1379,7 +1493,7 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "A", 
+            "rank": "B", 
             "tier": 2
         }, 
         "Hogun": {
@@ -1459,7 +1573,17 @@
             "tier": 1
         }, 
         "Human Torch": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "GB": 0
+                }, 
+                "slot2": {
+                    "FD": 31
+                }, 
+                "slot3": {
+                    "IP": 2
+                }
+            }, 
             "gear": {
                 "all": [], 
                 "ctp": [
@@ -1476,8 +1600,8 @@
                     "IP"
                 ]
             }, 
-            "rank": "S", 
-            "tier": 1
+            "rank": "A", 
+            "tier": 2
         }, 
         "Hyperion": {
             "current": {}, 
@@ -1524,7 +1648,7 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "A", 
+            "rank": "B", 
             "tier": 2
         }, 
         "Invisible Woman": {
@@ -1587,7 +1711,7 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "A", 
+            "rank": "B", 
             "tier": 2
         }, 
         "Iron Hammer": {
@@ -1610,7 +1734,7 @@
                 ]
             }, 
             "rank": "A", 
-            "tier": 1
+            "tier": 2
         }, 
         "Iron-Man": {
             "current": {}, 
@@ -1667,7 +1791,7 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "C", 
+            "rank": "D", 
             "tier": 1
         }, 
         "Jean Grey": {
@@ -1715,7 +1839,7 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "C", 
+            "rank": "D", 
             "tier": 1
         }, 
         "Juggernaut": {
@@ -1776,7 +1900,17 @@
             "tier": 1
         }, 
         "Kate Bishop": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "DO": 16
+                }, 
+                "slot2": {
+                    "CRR": 16
+                }, 
+                "slot3": {
+                    "DP": 85
+                }
+            }, 
             "gear": {
                 "all": [], 
                 "ctp": [
@@ -1789,11 +1923,15 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "B", 
+            "rank": "C", 
             "tier": 2
         }, 
         "Kid Kaiju": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "TRA": 0
+                }
+            }, 
             "gear": {
                 "all": [
                     "CRD", 
@@ -1806,7 +1944,7 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "A", 
+            "rank": "B", 
             "tier": 1
         }, 
         "Killmonger": {
@@ -1914,11 +2052,21 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "C", 
+            "rank": "D", 
             "tier": 1
         }, 
         "Lincoln": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "GB": 0
+                }, 
+                "slot2": {
+                    "LD": 20
+                }, 
+                "slot3": {
+                    "IP": 3
+                }
+            }, 
             "gear": {
                 "all": [], 
                 "ctp": [
@@ -1931,7 +2079,7 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "B", 
+            "rank": "C", 
             "tier": 1
         }, 
         "Lizard": {
@@ -1993,7 +2141,7 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "B", 
+            "rank": "C", 
             "tier": 2
         }, 
         "Luna Snow": {
@@ -2083,7 +2231,7 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "B", 
+            "rank": "C", 
             "tier": 1
         }, 
         "Mantis": {
@@ -2102,7 +2250,7 @@
                 "pvp": []
             }, 
             "rank": "B", 
-            "tier": 1
+            "tier": 2
         }, 
         "Maximus": {
             "current": {}, 
@@ -2177,11 +2325,21 @@
                     "IP"
                 ]
             }, 
-            "rank": "S", 
+            "rank": "A", 
             "tier": 2
         }, 
         "Minn-Erva": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "CRD": 20
+                }, 
+                "slot2": {
+                    "CRD": 13
+                }, 
+                "slot3": {
+                    "DP": 80
+                }
+            }, 
             "gear": {
                 "all": [], 
                 "ctp": [
@@ -2296,7 +2454,7 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "S", 
+            "rank": "B", 
             "tier": 2
         }, 
         "Moon Knight": {
@@ -2404,7 +2562,7 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "A", 
+            "rank": "B", 
             "tier": 1
         }, 
         "Nebula": {
@@ -2434,7 +2592,7 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "C", 
+            "rank": "A", 
             "tier": 1
         }, 
         "Nick Fury": {
@@ -2473,7 +2631,7 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "A", 
+            "rank": "B", 
             "tier": 2
         }, 
         "Nova": {
@@ -2528,7 +2686,7 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "B", 
+            "rank": "C", 
             "tier": 2
         }, 
         "Proxima Midnight": {
@@ -2550,7 +2708,7 @@
                     "IP"
                 ]
             }, 
-            "rank": "S", 
+            "rank": "A", 
             "tier": 2
         }, 
         "Psylocke": {
@@ -2598,7 +2756,17 @@
             "tier": 2
         }, 
         "Quasar": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "GB": 0
+                }, 
+                "slot2": {
+                    "ID": 11
+                }, 
+                "slot3": {
+                    "DP": 200
+                }
+            }, 
             "gear": {
                 "all": [
                     "GB", 
@@ -2612,7 +2780,7 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "A", 
+            "rank": "B", 
             "tier": 1
         }, 
         "Quicksilver": {
@@ -2638,7 +2806,17 @@
             "tier": 2
         }, 
         "Red Hulk": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "GB": 0
+                }, 
+                "slot2": {
+                    "FD": 29
+                }, 
+                "slot3": {
+                    "IP": 2
+                }
+            }, 
             "gear": {
                 "all": [
                     "HP", 
@@ -2719,7 +2897,7 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "A", 
+            "rank": "B", 
             "tier": 1
         }, 
         "Rocket Raccoon": {
@@ -2741,7 +2919,17 @@
             "tier": 1
         }, 
         "Rogue": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "DO": 15
+                }, 
+                "slot2": {
+                    "HP": 14
+                }, 
+                "slot3": {
+                    "DP": 100
+                }
+            }, 
             "gear": {
                 "all": [
                     "GB", 
@@ -2759,7 +2947,7 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "A", 
+            "rank": "B", 
             "tier": 2
         }, 
         "Ronan": {
@@ -2792,8 +2980,8 @@
                 ], 
                 "pve": [
                     "CRD", 
-                    "DP", 
-                    "GB"
+                    "GB", 
+                    "DP"
                 ], 
                 "pvp": []
             }, 
@@ -2846,11 +3034,21 @@
                     "IP"
                 ]
             }, 
-            "rank": "A", 
+            "rank": "B", 
             "tier": 2
         }, 
         "Scarlet Witch": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "GB": 0
+                }, 
+                "slot2": {
+                    "MD": 35
+                }, 
+                "slot3": {
+                    "IP": 3
+                }
+            }, 
             "gear": {
                 "all": [], 
                 "ctp": [
@@ -2931,7 +3129,17 @@
             "tier": 2
         }, 
         "She-Hulk": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "CRD": 26
+                }, 
+                "slot2": {
+                    "HP": 13
+                }, 
+                "slot3": {
+                    "DP": 140
+                }
+            }, 
             "gear": {
                 "all": [
                     "CRD", 
@@ -3011,7 +3219,7 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "B", 
+            "rank": "C", 
             "tier": 1
         }, 
         "Silk": {
@@ -3060,7 +3268,7 @@
                     "IP"
                 ]
             }, 
-            "rank": "B", 
+            "rank": "C", 
             "tier": 1
         }, 
         "Sister Grimm": {
@@ -3077,7 +3285,7 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "C", 
+            "rank": "D", 
             "tier": 1
         }, 
         "Skurge": {
@@ -3109,11 +3317,21 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "A", 
+            "rank": "B", 
             "tier": 1
         }, 
         "Songbird": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "CRR": 17
+                }, 
+                "slot2": {
+                    "ID": 12
+                }, 
+                "slot3": {
+                    "IP": 2
+                }
+            }, 
             "gear": {
                 "all": [], 
                 "ctp": [], 
@@ -3140,7 +3358,7 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "B", 
+            "rank": "C", 
             "tier": 1
         }, 
         "Spider-Man": {
@@ -3170,7 +3388,17 @@
             "tier": 2
         }, 
         "Spider-Man 2099": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "GB": 0
+                }, 
+                "slot2": {
+                    "DO": 17
+                }, 
+                "slot3": {
+                    "IP": 3
+                }
+            }, 
             "gear": {
                 "all": [
                     "DO", 
@@ -3209,7 +3437,7 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "B", 
+            "rank": "C", 
             "tier": 1
         }, 
         "Star-Lord": {
@@ -3246,7 +3474,7 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "A", 
+            "rank": "B", 
             "tier": 2
         }, 
         "Stryfe": {
@@ -3295,7 +3523,7 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "A", 
+            "rank": "B", 
             "tier": 1
         }, 
         "Thanos": {
@@ -3392,7 +3620,7 @@
                     "IP"
                 ]
             }, 
-            "rank": "A", 
+            "rank": "B", 
             "tier": 1
         }, 
         "Ulik": {
@@ -3441,7 +3669,7 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "C", 
+            "rank": "D", 
             "tier": 2
         }, 
         "Ulysses Klaue": {
@@ -3504,7 +3732,7 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "A", 
+            "rank": "B", 
             "tier": 2
         }, 
         "Victorious": {
@@ -3530,7 +3758,17 @@
             "tier": 1
         }, 
         "Vision": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "CRD": 28
+                }, 
+                "slot2": {
+                    "CRR": 17
+                }, 
+                "slot3": {
+                    "DP": 65
+                }
+            }, 
             "gear": {
                 "all": [], 
                 "ctp": [
@@ -3544,7 +3782,7 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "B", 
+            "rank": "C", 
             "tier": 2
         }, 
         "Volstagg": {
@@ -3596,7 +3834,7 @@
                     "IP"
                 ]
             }, 
-            "rank": "A", 
+            "rank": "B", 
             "tier": 1
         }, 
         "War Machine": {
@@ -3629,7 +3867,7 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "S", 
+            "rank": "A", 
             "tier": 2
         }, 
         "Warwolf": {
@@ -3693,7 +3931,7 @@
                     "IP"
                 ]
             }, 
-            "rank": "S", 
+            "rank": "A", 
             "tier": 1
         }, 
         "Whiplash": {
@@ -3755,11 +3993,21 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "B", 
+            "rank": "C", 
             "tier": 1
         }, 
         "Wiccan": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "CRD": 19
+                }, 
+                "slot2": {
+                    "AD": 17
+                }, 
+                "slot3": {
+                    "IP": 2
+                }
+            }, 
             "gear": {
                 "all": [], 
                 "ctp": [
@@ -3771,7 +4019,7 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "B", 
+            "rank": "C", 
             "tier": 1
         }, 
         "Winter Soldier": {
@@ -3884,7 +4132,7 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "A", 
+            "rank": "B", 
             "tier": 1
         }, 
         "Yondu": {

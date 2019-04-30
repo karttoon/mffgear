@@ -42,7 +42,7 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "C", 
+            "rank": "D",
             "tier": 1
         }, 
         "Agent Venom": {
@@ -64,7 +64,7 @@
                     "IP"
                 ]
             }, 
-            "rank": "S", 
+            "rank": "A",
             "tier": 1
         }, 
         "Amadeus Cho": {
@@ -82,7 +82,7 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "B", 
+            "rank": "C",
             "tier": 1
         }, 
         "America Chavez": {
@@ -155,7 +155,7 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "C", 
+            "rank": "D",
             "tier": 1
         }, 
         "Ant-Man": {
@@ -173,7 +173,7 @@
                     "IP"
                 ]
             }, 
-            "rank": "S", 
+            "rank": "A",
             "tier": 1
         }, 
         "Anti-Man": {
@@ -194,7 +194,7 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "S", 
+            "rank": "A",
             "tier": 1
         }, 
         "Apocalypse": {
@@ -234,7 +234,7 @@
                     "IP"
                 ]
             }, 
-            "rank": "A", 
+            "rank": "B",
             "tier": 1
         }, 
         "Baron Mordo": {
@@ -298,7 +298,7 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "C", 
+            "rank": "D",
             "tier": 1
         }, 
         "Black Panther": {
@@ -481,7 +481,7 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "B", 
+            "rank": "C",
             "tier": 1
         }, 
         "Colossus": {
@@ -594,7 +594,7 @@
                     "IP"
                 ]
             }, 
-            "rank": "S", 
+            "rank": "A",
             "tier": 2
         }, 
         "Cyclops": {
@@ -626,7 +626,7 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "C", 
+            "rank": "D",
             "tier": 1
         }, 
         "Daredevil": {
@@ -685,7 +685,7 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "B", 
+            "rank": "D",
             "tier": 1
         }, 
         "Doctor Doom": {
@@ -748,7 +748,7 @@
                     "IP"
                 ]
             }, 
-            "rank": "S", 
+            "rank": "A",
             "tier": 2
         }, 
         "Domino": {
@@ -901,7 +901,7 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "A", 
+            "rank": "B",
             "tier": 1
         }, 
         "Falcon": {
@@ -1014,7 +1014,7 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "A", 
+            "rank": "B",
             "tier": 1
         }, 
         "Ghost Panther": {
@@ -1040,7 +1040,7 @@
                     "IP"
                 ]
             }, 
-            "rank": "S", 
+            "rank": "A",
             "tier": 1
         }, 
         "Ghost Rider": {
@@ -1058,7 +1058,7 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "B", 
+            "rank": "C",
             "tier": 1
         }, 
         "Giant-Man": {
@@ -1173,7 +1173,7 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "D", 
+            "rank": "S",
             "tier": 1
         }, 
         "Heimdall": {
@@ -1235,7 +1235,7 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "A", 
+            "rank": "B",
             "tier": 1
         }, 
         "Hogun": {
@@ -1328,7 +1328,7 @@
                     "IP"
                 ]
             }, 
-            "rank": "S", 
+            "rank": "A",
             "tier": 1
         }, 
         "Hyperion": {
@@ -1366,7 +1366,7 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "A", 
+            "rank": "B",
             "tier": 1
         }, 
         "Invisible Woman": {
@@ -1409,7 +1409,7 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "A", 
+            "rank": "B",
             "tier": 1
         }, 
         "Iron Hammer": {
@@ -1479,7 +1479,7 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "C", 
+            "rank": "D",
             "tier": 1
         }, 
         "Jean Grey": {
@@ -1523,7 +1523,7 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "C", 
+            "rank": "D",
             "tier": 1
         }, 
         "Juggernaut": {
@@ -1597,7 +1597,7 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "B", 
+            "rank": "C",
             "tier": 1
         }, 
         "Kid Kaiju": {
@@ -1614,7 +1614,7 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "A", 
+            "rank": "B",
             "tier": 1
         }, 
         "Killmonger": {
@@ -1702,7 +1702,7 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "C", 
+            "rank": "D",
             "tier": 1
         }, 
         "Lincoln": {
@@ -1719,7 +1719,7 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "B", 
+            "rank": "C",
             "tier": 1
         }, 
         "Lizard": {
@@ -1777,7 +1777,7 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "B", 
+            "rank": "C",
             "tier": 1
         }, 
         "Luna Snow": {
@@ -1867,7 +1867,7 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "B", 
+            "rank": "C",
             "tier": 1
         }, 
         "Mantis": {
@@ -1941,7 +1941,7 @@
                     "IP"
                 ]
             }, 
-            "rank": "S", 
+            "rank": "A",
             "tier": 1
         }, 
         "Minn-Erva": {
@@ -2030,7 +2030,7 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "S", 
+            "rank": "B",
             "tier": 1
         }, 
         "Moon Knight": {
@@ -2128,7 +2128,7 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "A", 
+            "rank": "B",
             "tier": 1
         }, 
         "Nebula": {
@@ -2148,7 +2148,7 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "C", 
+            "rank": "A",
             "tier": 1
         }, 
         "Nick Fury": {
@@ -2187,7 +2187,7 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "A", 
+            "rank": "B",
             "tier": 1
         }, 
         "Nova": {
@@ -2242,7 +2242,7 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "B", 
+            "rank": "C",
             "tier": 1
         }, 
         "Proxima Midnight": {
@@ -2264,7 +2264,7 @@
                     "IP"
                 ]
             }, 
-            "rank": "S", 
+            "rank": "A",
             "tier": 2
         }, 
         "Psylocke": {
@@ -2326,7 +2326,7 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "A", 
+            "rank": "B",
             "tier": 1
         }, 
         "Quicksilver": {
@@ -2409,7 +2409,7 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "A", 
+            "rank": "B",
             "tier": 1
         }, 
         "Rocket Raccoon": {
@@ -2449,7 +2449,7 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "A", 
+            "rank": "B",
             "tier": 1
         }, 
         "Ronan": {
@@ -2526,7 +2526,7 @@
                     "IP"
                 ]
             }, 
-            "rank": "A", 
+            "rank": "B",
             "tier": 1
         }, 
         "Scarlet Witch": {
@@ -2661,7 +2661,7 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "B", 
+            "rank": "C",
             "tier": 1
         }, 
         "Silk": {
@@ -2710,7 +2710,7 @@
                     "IP"
                 ]
             }, 
-            "rank": "B", 
+            "rank": "C",
             "tier": 1
         }, 
         "Sister Grimm": {
@@ -2727,7 +2727,7 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "C", 
+            "rank": "D",
             "tier": 1
         }, 
         "Skurge": {
@@ -2749,7 +2749,7 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "A", 
+            "rank": "B",
             "tier": 1
         }, 
         "Songbird": {
@@ -2780,7 +2780,7 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "B", 
+            "rank": "C",
             "tier": 1
         }, 
         "Spider-Man": {
@@ -2845,7 +2845,7 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "B", 
+            "rank": "C",
             "tier": 1
         }, 
         "Star-Lord": {
@@ -2882,7 +2882,7 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "A", 
+            "rank": "B",
             "tier": 1
         }, 
         "Stryfe": {
@@ -2921,7 +2921,7 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "A", 
+            "rank": "B",
             "tier": 1
         }, 
         "Thanos": {
@@ -3006,7 +3006,7 @@
                     "IP"
                 ]
             }, 
-            "rank": "A", 
+            "rank": "B",
             "tier": 1
         }, 
         "Ulik": {
@@ -3041,7 +3041,7 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "C", 
+            "rank": "D",
             "tier": 1
         }, 
         "Ulysses Klaue": {
@@ -3094,7 +3094,7 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "A", 
+            "rank": "B",
             "tier": 1
         }, 
         "Victorious": {
@@ -3134,7 +3134,7 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "B", 
+            "rank": "C",
             "tier": 1
         }, 
         "Volstagg": {
@@ -3176,7 +3176,7 @@
                     "IP"
                 ]
             }, 
-            "rank": "A", 
+            "rank": "B",
             "tier": 1
         }, 
         "War Machine": {
@@ -3209,7 +3209,7 @@
                 "pve": [], 
                 "pvp": []
             }, 
-            "rank": "S", 
+            "rank": "A",
             "tier": 1
         }, 
         "Warwolf": {
@@ -3263,7 +3263,7 @@
                     "IP"
                 ]
             }, 
-            "rank": "S", 
+            "rank": "A",
             "tier": 1
         }, 
         "Whiplash": {
@@ -3315,7 +3315,7 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "B", 
+            "rank": "C",
             "tier": 1
         }, 
         "Wiccan": {
@@ -3331,7 +3331,7 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "B", 
+            "rank": "C",
             "tier": 1
         }, 
         "Winter Soldier": {
@@ -3440,7 +3440,7 @@
                 ], 
                 "pvp": []
             }, 
-            "rank": "A", 
+            "rank": "B",
             "tier": 1
         }, 
         "Yondu": {
