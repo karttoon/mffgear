@@ -581,7 +581,17 @@
             "tier": 2
         }, 
         "Carnage": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "CRR": 17
+                }, 
+                "slot2": {
+                    "CRD": 20
+                }, 
+                "slot3": {
+                    "DP": 130
+                }
+            }, 
             "gear": {
                 "all": [
                     "CRR", 
@@ -869,7 +879,17 @@
             "tier": 2
         }, 
         "Doctor Octopus": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "CRD": 28
+                }, 
+                "slot2": {
+                    "IP": 2
+                }, 
+                "slot3": {
+                    "WEB": 0
+                }
+            }, 
             "gear": {
                 "all": [], 
                 "ctp": [
@@ -1164,7 +1184,17 @@
             "tier": 1
         }, 
         "Fantomex": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "CRD": 30
+                }, 
+                "slot2": {
+                    "HP": 17
+                }, 
+                "slot3": {
+                    "IP": 4
+                }
+            }, 
             "gear": {
                 "all": [
                     "CRD", 
@@ -1318,7 +1348,7 @@
                 "pvp": []
             }, 
             "rank": "B", 
-            "tier": 1
+            "tier": 2
         }, 
         "Gorgon": {
             "current": {}, 
@@ -1737,7 +1767,17 @@
             "tier": 2
         }, 
         "Iron-Man": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "CRD": 27
+                }, 
+                "slot2": {
+                    "CRD": 15
+                }, 
+                "slot3": {
+                    "DP": 200
+                }
+            }, 
             "gear": {
                 "all": [
                     "GB", 
@@ -1773,13 +1813,13 @@
         "Jane Foster": {
             "current": {
                 "slot1": {
-                    "CRR": 17
+                    "CRD": 28
                 }, 
                 "slot2": {
-                    "LD": 13
+                    "LD": 24
                 }, 
                 "slot3": {
-                    "IP": 2
+                    "IP": 3
                 }
             }, 
             "gear": {
@@ -1864,7 +1904,17 @@
             "tier": 1
         }, 
         "Kaecilius": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "CRR": 14
+                }, 
+                "slot2": {
+                    "CRD": 23
+                }, 
+                "slot3": {
+                    "IP": 2
+                }
+            }, 
             "gear": {
                 "all": [
                     "CRR", 
@@ -2523,13 +2573,13 @@
         "Mysterio": {
             "current": {
                 "slot1": {
-                    "CRD": 20
+                    "CRD": 27
                 }, 
                 "slot2": {
-                    "MD": 18
+                    "MD": 22
                 }, 
                 "slot3": {
-                    "DP": 210
+                    "DP": 220
                 }
             }, 
             "gear": {
@@ -2593,7 +2643,7 @@
                 "pvp": []
             }, 
             "rank": "A", 
-            "tier": 1
+            "tier": 2
         }, 
         "Nick Fury": {
             "current": {}, 
@@ -2734,7 +2784,17 @@
             "tier": 2
         }, 
         "Punisher": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "GB": 0
+                }, 
+                "slot2": {
+                    "DEF": 10
+                }, 
+                "slot3": {
+                    "DP": 210
+                }
+            }, 
             "gear": {
                 "all": [
                     "GB", 
@@ -2916,7 +2976,7 @@
                 "pvp": []
             }, 
             "rank": "A", 
-            "tier": 1
+            "tier": 2
         }, 
         "Rogue": {
             "current": {
@@ -3441,7 +3501,17 @@
             "tier": 1
         }, 
         "Star-Lord": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "CRD": 19
+                }, 
+                "slot2": {
+                    "DO": 18
+                }, 
+                "slot3": {
+                    "IP": 2
+                }
+            }, 
             "gear": {
                 "all": [], 
                 "ctp": [
@@ -3460,7 +3530,7 @@
                 ]
             }, 
             "rank": "A", 
-            "tier": 1
+            "tier": 2
         }, 
         "Storm": {
             "current": {}, 
@@ -3835,7 +3905,7 @@
                 ]
             }, 
             "rank": "B", 
-            "tier": 1
+            "tier": 2
         }, 
         "War Machine": {
             "current": {}, 
@@ -4023,7 +4093,17 @@
             "tier": 1
         }, 
         "Winter Soldier": {
-            "current": {}, 
+            "current": {
+                "slot1": {
+                    "CRD": 27
+                }, 
+                "slot2": {
+                    "CRD": 30
+                }, 
+                "slot3": {
+                    "DP": 70
+                }
+            }, 
             "gear": {
                 "all": [
                     "CRD", 
